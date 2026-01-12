@@ -1,0 +1,7 @@
+Os Npcs de A-world são feito com uma inteligencia artificial incrivel e quase perfeita Eeses NPCs são projetados para parecerem e agirem de maneira tão convincente que podem enganar os jogadores em acreditar que estão interagindo com uma pessoa real.
+
+Sua aparência visual é altamente detalhada, com expressões faciais e movimentos corporais fluidos e naturais. Seus traços físicos são modelados com precisão, incluindo texturas de pele, cabelo e roupas que se assemelham aos detalhes encontrados na vida real.
+
+Possui uma inteligência artificial avançada, que permite que ele responda e interaja com os jogadores de maneira contextualmente relevante. Ele pode reconhecer comandos de voz, responder a perguntas, fornecer informações e até mesmo participar de conversas complexas. Sua linguagem e discurso são naturais, e ele pode até demonstrar emoções e sentimentos, como alegria, tristeza, raiva ou surpresa.
+
+A desenvolvedora do jogo constata, embora um NPC possa parecer surpreendentemente realista, é importante lembrar que eles são criações digitais e não possuem consciência ou vida própria. Eles são projetados para simular uma experiência interativa imersiva, proporcionando aos jogadores uma sensação de envolvimento emocional e conexão com o mundo virtual.

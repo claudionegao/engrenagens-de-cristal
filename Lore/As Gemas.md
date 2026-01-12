@@ -1,0 +1,9 @@
+As gemas são seres conscientes e mágicos, compostos por uma pedra preciosa que é o núcleo de sua existência. Essas gemas possuem corpos projetados, que são uma manifestação física criada por uma gema específica.
+
+Cada gema tem sua própria forma e aparência distintas, baseadas na gem que as projeta. As gemas são cristais com propriedades mágicas e cada uma delas possui características únicas e habilidades especiais. Elas vêm em diferentes cores e formatos, representando uma ampla gama de gemas preciosas conhecidas, como rubi, safira, ametista, pérola, entre outras.
+
+A gema que projeta o corpo assume o papel de controladora, dando forma e funcionalidade ao corpo físico da gema extraterrestre. Essa projeção é flexível e pode ser alterada para se adequar às necessidades e preferências individuais de cada gema. Por exemplo, uma gema pode ter a capacidade de alterar sua aparência, tamanho e forma com facilidade.
+
+A pedra preciosa que está embutida no corpo da gema extraterrestre é o núcleo de sua existência e contém uma parte essencial de sua energia e identidade. É através dessa pedra que a gema extraterrestre canaliza seus poderes mágicos e habilidades especiais. A pedra pode ser localizada em diferentes partes do corpo, como na mão, testa, peito ou umbigo, variando de acordo com a gema em questão.
+
+Cada gema extraterrestre tem suas próprias habilidades e características. Algumas são especialistas em combate corpo a corpo, enquanto outras possuem poderes de manipulação de elementos ou habilidades de cura. Elas são imortais e podem regenerar seus corpos caso sejam danificados, desde que suas pedras não sejam danificadas ou destruídas.

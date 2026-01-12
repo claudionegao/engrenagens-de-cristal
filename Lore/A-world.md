@@ -1,0 +1,9 @@
+2035 ano de lançamento do jogo do ano um jogo de realidade virtual revolucionário chamado "A-world". Com a ajuda de avanços tecnológicos surpreendentes, eles criaram um mundo virtual expansivo e imersivo, onde os jogadores poderiam experimentar aventuras além de sua imaginação.
+
+No mundo de A-world, os jogadores podiam explorar vastos cenários, desde selvas exuberantes a cidades medievais e cavernas desconhecidos. Eles tinham a liberdade de interagir com outros jogadores e NPCS em tempo real, formando equipes e forjando amizades duradouras. Cada jogador podia personalizar seu avatar de acordo com suas preferências, criando uma experiência única para si mesmo.
+
+Mas o verdadeiro destaque de A-world era o sistema de missões e desafios. Cada missão era unica, as missões podiam ser entreges por qualquer npc. Os jogadores podiam embarcar em desde missões simples e pessoais como buscar um pacote ou fazer a proteção de um mercador até jornadas épicas, enfrentando criaturas místicas, resolvendo enigmas e desvendando segredos antigos.
+
+A popularidade de A-world cresceu rapidamente, e em pouco tempo, milhões de pessoas em todo o mundo se conectaram a essa realidade virtual fascinante. O jogo ultrapassou as barreiras da idade, do gênero e da nacionalidade, unindo pessoas de diferentes origens em uma experiência compartilhada.
+
+No entanto, nem tudo era perfeito em A-world, um dia uma invasão aconteceu em todos os cantos do jogo. "As Gemas" como eram chamadas eram seres com um nucleo rochoso e seu corpo era feito de luz solida, depois de muitos anos de escravidão uma batalha teve inicio contra As Gemas onde com a ajuda de um grupo composto de Gemas desertoras simpatizantes resolveram se unir para combater a propia raça.
