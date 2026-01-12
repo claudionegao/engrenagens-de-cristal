@@ -59,7 +59,7 @@ céus de todas as zonas do jogo.
 ## A Descoberta que Mudou Tudo
 
 **Data**: 28 de Março de 2036 (13 dias após o início da invasão)  
-**Local**: Cavernas Cristalinas, Servidor Omega-3
+**Local**: Cavernas Cristalinas
 
 Durante as semanas mais desesperadoras do conflito, quando a derrota parecia 
 inevitável, algo extraordinário aconteceu.  
@@ -226,7 +226,7 @@ A-world, convivendo pacificamente com os jogadores.
   - Estátuas virtuais em todas as cidades principais
   - Seu paradeiro se tornou misterioso após o final da guerra
     (alguns deixaram o jogo, outros ficaram anônimos)
-- Formação da guilda **"Crystal Gears"** (veteranos do conflito)
+- Formação da guilda **"Crystal Survivors"** (veteranos do conflito)
 - Títulos e conquistas especiais in-game para sobreviventes
 
 ### Para o Jogo
