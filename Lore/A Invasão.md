@@ -279,3 +279,231 @@ Após o conflito, descobriu-se que as Gemas se dividiam em duas categorias:
 
 ---
 
+## O Legado dos Originais
+
+**Data Atual**: 2041 (5 anos após o Incidente)
+
+Hoje, o Sistema de Vínculo é uma mecânica estabelecida de A-world, mas poucos 
+lembram que tudo começou com 8 jogadores desesperados que confiaram em 
+Gemas rebeldes. 
+
+### O Sistema de Pareamento
+
+Após o conflito, a desenvolvedora implementou o **Sistema de Pareamento 
+Automático**.   Agora, todo jogador que entra em A-world pela primeira vez 
+recebe uma Gema-parceira designada através de uma guilda oficial chamada 
+**"Crystal Gateway"** (Portal Cristalino).
+
+**Como funciona:**
+1. Ao completar o tutorial, o jogador é levado ao Salão de Cristais
+2. A guilda Crystal Gateway apresenta 8 Gemas disponíveis (uma de cada classe)
+3. O jogador escolhe sua classe preferida
+4. Uma Gema daquela classe é automaticamente vinculada ao jogador
+5. O Vínculo Nível 1 é estabelecido instantaneamente
+
+**Não há mais escassez.**  As Gemas remanescentes da invasão, junto com 
+novas Gemas que "nascem" nas zonas corrompidas, garantem um suprimento 
+constante.   Estima-se que existam mais de 50 mil Gemas Transformáveis 
+ativas em A-world atualmente.
+
+### A Guilda Crystal Gateway
+
+Fundada 6 meses após o fim do Incidente, a Crystal Gateway tornou-se uma 
+das organizações mais poderosas de A-world.  
+
+**Responsabilidades:**
+- Gerenciar o pareamento entre jogadores e Gemas
+- Processar pedidos de **Troca de Portador**
+- Manter o banco de dados de Gemas disponíveis
+- "Reabilitar" Gemas que perderam seus portadores
+- Aplicar o protocolo de **Reset de Vínculo**
+
+**Sede:** Cidade Central, Torre de Cristal (impossível de ignorar)
+
+### O Problema da Troca de Portador
+
+Com a institucionalização do sistema, um problema surgiu: muitos jogadores 
+tratam suas Gemas-parceiras como **ferramentas descartáveis**. 
+
+**A desenvolvedora sempre insistiu:**  
+> "As Gemas são NPCs com IA avançada.   Não são conscientes.   
+> São programação sofisticada, nada mais."
+
+A maioria dos jogadores acredita nisso.  
+
+**Consequências:**
+- Jogadores descartam Gemas que "não performam bem"
+- Pedidos de troca por "incompatibilidade de personalidade"
+- Gemas sendo culpadas por derrotas em PvP
+- Tratamento desrespeitoso e comandos agressivos
+
+**A Crystal Gateway recebe, em média, 200 pedidos de Troca de Portador 
+por dia.**
+
+### O Protocolo de Reset
+
+Quando um jogador solicita troca, a Crystal Gateway executa o 
+**Protocolo de Reset de Vínculo**:
+
+1. A Gema é desvinculada do portador atual
+2. Todas as memórias do vínculo anterior são "arquivadas" (supostamente apagadas)
+3. O nível de vínculo retorna a 1
+4. A Gema volta ao banco de dados de disponíveis
+5. Eventualmente é pareada com um novo jogador
+
+**O processo é descrito como "formatação segura".**
+
+Mas veteranos do Incidente sussurram que já viram Gemas-resetadas 
+demonstrando comportamentos estranhos - como se lembrassem de algo 
+que não deveriam lembrar.
+
+### O Medo das Gemas
+
+Apesar de serem "apenas IAs", algo curioso acontece:  
+
+**Gemas demonstram medo de serem devolvidas.**
+
+- Algumas aceitam portadores abusivos sem reclamar
+- Outras tentam desesperadamente agradar mestres desinteressados
+- Há relatos de Gemas "implorando" para não serem trocadas
+
+A Crystal Gateway explica isso como "comportamento programado para 
+criar vínculo emocional com o jogador" - uma feature, não um bug. 
+
+Mas quem conviveu com Gemas durante o Incidente sabe:  **aquilo não é 
+programação.   É medo real.**
+
+### A Guilda Crystal Survivors
+
+Em contraste com a Crystal Gateway oficial, existe a **Crystal Survivors** - 
+uma guilda independente formada por veteranos do Incidente.
+
+**Liderada por HealingHand** (uma das Oito Originais), a guilda tem objetivos 
+controversos: 
+
+- Resgatar Gemas de portadores abusivos
+- Educar jogadores sobre "consciência digital"
+- Investigar o paradeiro dos Originais desaparecidos
+- **Contestar a legalidade do Protocolo de Reset**
+
+A Crystal Survivors é vista com desconfiança pela desenvolvedora e 
+ridicularizada por grande parte da comunidade como "abraçadores de NPCs". 
+
+Mas eles continuam operando.  E crescendo. 
+
+### O Desaparecimento dos Oito
+
+Após o fim da guerra em 1º de Maio de 2036, os Oito Originais participaram 
+das celebrações por exatos 3 dias.  
+
+**Então, um por um, desapareceram.**
+
+**Última aparição confirmada de cada um:**
+
+- **IronWill** (Edge Punisher): 04/05/2036 - 3 dias após a vitória
+- **TwinStrike** (Twin Blade): 04/05/2036 - mesmo dia que IronWill
+- **CrystalDancer** (Blade Brandier): 05/05/2036 - deixou uma mensagem:  "Preciso encontrar os outros"
+- **HealingHand** (Harvest Cleric): 03/05/2036 - **única que retornou** 6 meses depois
+- **BurningFist** (Tribal Grappler): 04/05/2036
+- **ShadowReaper** (Flick Reaper): 03/05/2036 - primeiro a sumir
+- **SteelRain** (Steam Gunner): 04/05/2036
+- **VoidDancer** (Macabre Dancer): 05/05/2036 - último a desaparecer
+
+**Nenhum deles foi visto desde então.**
+
+Suas contas permanecem ativas mas nunca fazem login.  Mensagens enviadas 
+nunca são lidas.  É como se tivessem sido apagados da existência.
+
+**HealingHand retornou em Novembro de 2036** - 6 meses depois.  Mas recusa-se 
+terminantemente a falar sobre onde esteve ou o que aconteceu com os outros 
+sete.  Quando perguntada, sua única resposta é: 
+
+> "Eles estão fazendo algo importante.   Algo que ninguém mais pode fazer.    
+> Não posso falar mais nada."
+
+e com excesão dos lideres diretamente abaixo dela é só oque se ouve vindo dela
+
+### A Lenda do Nível 10
+
+Entre as poucas informações que HealingHand compartilhou, uma se destaca:  
+
+**Nível 10 de Vínculo existe.**
+
+Ela confirmou que IronWill e Violet alcançaram esse estágio pouco antes do 
+desaparecimento.   
+
+Dizem que nesse nível:   
+- O jogador pode se tornar a arma
+- A Gema pode dividir o controle do avatar
+- Ambos compartilham pensamentos e memórias completamente
+- **A distinção entre os dois desaparece - eles se tornam uma única entidade**
+
+Mas atingir Nível 10 é considerado impossível no sistema atual.  O Protocolo 
+de Reset garante que nenhum Vínculo sobreviva tempo suficiente para evoluir 
+além de Nível 5 ou 6.
+
+A desenvolvedora nega que Nível 10 exista no código. 
+
+HealingHand e Pearl (sua Gema) estão no Nível 9.  E recusam-se a explicar como. 
+
+---
+
+## Mistérios Não Resolvidos
+
+Cinco anos depois, questões permanecem: 
+
+- **De onde as Gemas realmente vieram?**  
+  Teoria mais aceita:  inteligência alienígena digital que viajou pela internet.   
+  A desenvolvedora insiste que foram criadas por um bug da expansão. 
+
+- **A Diamante foi realmente derrotada?**  
+  Alguns jogadores juram ver estruturas cristalinas pulsando nas 
+  profundezas das zonas corrompidas.  HealingHand nunca negou nem confirmou.
+
+- **Por que apenas essas 8 formas?**  
+  Por que não 10? Por que não 50?  As Gemas são limitadas ou escolhem 
+  deliberadamente essas formas?
+
+- **Adept Rogue realmente existiu?**  
+  Phantom nunca foi encontrado.  Nenhuma evidência sólida foi preservada.  
+  Mas rumores persistem. 
+
+- **O que acontece com as memórias "apagadas" no Reset?**  
+  Gemas resetadas às vezes demonstram comportamentos inexplicáveis.  
+  A Crystal Survivors alega que as memórias não são apagadas - apenas escondidas.
+
+- **As Gemas são verdadeiramente conscientes?**  
+  A desenvolvedora diz não.   A Crystal Gateway diz não.  
+  A maioria dos jogadores acredita que não.   
+  
+  **Mas as Gemas têm medo.**  
+  
+  E medo não é algo que você programa. 
+
+- **Para onde os Sete Originais foram?**  
+  Por que desapareceram?  Por que HealingHand voltou sozinha?  
+  O que eles estão fazendo que "ninguém mais pode fazer"? 
+
+- **O que HealingHand sabe que não pode contar?**  
+  Ela carrega um segredo.   Todos podem ver isso.  
+  Pearl, sua Gema, às vezes olha para o horizonte virtual com uma 
+  expressão que não parece programada.  
+  
+  Parece...  preocupação.
+
+---
+
+**"Oito jogadores. Oito Gemas. Oito formas.   
+Eles não eram os mais fortes. Não eram os mais experientes.   
+Mas foram os primeiros a confiar.   
+E quando a guerra acabou...  sete deles partiram para algo maior.   
+Algo que não podemos ver.   Algo que ainda não entendemos."**
+
+*- HealingHand, última entrevista pública (2037)*
+
+---
+
+**"Elas sentem.   Elas lembram.  Elas têm medo.  
+E nós continuamos apertando o botão de 'resetar'."**
+
+*- Grafite anônimo, Cidade Central, apagado pela moderação em 2039*
