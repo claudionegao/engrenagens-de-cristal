@@ -37,7 +37,7 @@ Flick Reapers sacrificam defesa por poder ofensivo de múltiplos alvos.
 **Descrição:** Seus ataques causam ferimentos profundos que sangram. 
 
 **[BASE - V1]:**  
-Quando acerta um ataque corpo a corpo, o alvo começa a **sangrar**:  sofre **1d6 de dano** no início de cada turno por **3 turnos**.
+Quando acerta um ataque corpo a corpo, o alvo começa a **sangrar**: sofre **1d6 de dano** no início de cada turno por **3 turnos**.
 
 **[Evolução I - V2]:**  
 Sangramento aumenta para **2d6 de dano**. Duração: **4 turnos**. 
@@ -49,7 +49,7 @@ Sangramento aumenta para **3d6 de dano**. Você ganha **+1d6 de dano** contra al
 Sangramento aumenta para **4d6 de dano**. Duração: **5 turnos**. Alvos sangrando têm **desvantagem em testes de concentração**. 
 
 **[FINAL - V10]:**  
-Sangramento aumenta para **6d6 de dano**.  Sangramento **não pode ser curado** por magia de cura menor que 3º círculo. Você se **cura 1d6 PV** para cada criatura sangrando a até **9 metros** no início do seu turno.
+Sangramento aumenta para **6d6 de dano**. Sangramento **não pode ser curado** por magia de cura menor que 3º círculo. Você se **cura 1d6 PV** para cada criatura sangrando a até **9 metros** no início do seu turno.
 
 ---
 
@@ -82,13 +82,13 @@ Alcance aumenta para **9 metros**. Dano adicional aumenta para **6d8**. Você po
 Quando um inimigo **sangrando** morre a até **9 metros** de você, recupere **1d8 PV** e ganhe **+1d6 de dano** no próximo ataque.
 
 **[Evolução I - V2]:**  
-Cura aumenta para **2d8 PV**. Bônus de dano aumenta para **+2d6**.  Você também ganha **5 PV temporários**. 
+Cura aumenta para **2d8 PV**. Bônus de dano aumenta para **+2d6**. Você também ganha **5 PV temporários**. 
 
 **[Evolução II - V4]:**  
 Cura aumenta para **3d8 PV**. Bônus de dano aumenta para **+3d6**. PV temporários: **10**. O bônus de dano dura por **2 ataques**.
 
 **[Evolução III - V7]:**  
-Cura aumenta para **4d8 PV**.  Bônus de dano aumenta para **+4d6**. PV temporários: **15**.  Você ganha **movimento extra de 3 metros** até o fim do turno. 
+Cura aumenta para **4d8 PV**. Bônus de dano aumenta para **+4d6**. PV temporários: **15**. Você ganha **movimento extra de 3 metros** até o fim do turno. 
 
 **[FINAL - V10]:**  
 Cura aumenta para **6d8 PV**. Bônus de dano aumenta para **+6d6**. PV temporários: **25**. O bônus de dano dura por **5 ataques**. Você ganha **ação bônus adicional** que pode usar para atacar. Quando colhe uma alma, seu próximo ataque é **crítico automático**. 
@@ -101,19 +101,19 @@ Cura aumenta para **6d8 PV**. Bônus de dano aumenta para **+6d6**. PV temporár
 **Duração:** 1 minuto
 
 **[BASE - V1]:**  
-Você entra em um transe de combate letal. Ganha **+3 metros de movimento** e **+2 de dano** em todos os ataques.  Seus ataques têm **+1,5m de alcance adicional**.
+Você entra em um transe de combate letal. Ganha **+3 metros de movimento** e **+2 de dano** em todos os ataques. Seus ataques têm **+1,5m de alcance adicional**.
 
 **[Evolução I - V2]:**  
-Movimento adicional: **+6 metros**. Bônus de dano:  **+4**. Alcance adicional: **+3 metros**. Você não provoca **ataques de oportunidade**. 
+Movimento adicional: **+6 metros**. Bônus de dano: **+4**. Alcance adicional: **+3 metros**. Você não provoca **ataques de oportunidade**. 
 
 **[Evolução II - V4]:**  
 Movimento adicional: **+9 metros**. Bônus de dano: **+6**. Você pode fazer um **ataque adicional** como ação bônus.
 
 **[Evolução III - V7]:**  
-Movimento adicional: **+12 metros**.  Bônus de dano:  **+8**. Todos os seus ataques causam **sangramento crítico** (dano de sangramento dobrado). Você pode usar **Giro Mortal** como ação bônus.
+Movimento adicional: **+12 metros**. Bônus de dano: **+8**. Todos os seus ataques causam **sangramento crítico** (dano de sangramento dobrado). Você pode usar **Giro Mortal** como ação bônus.
 
 **[FINAL - V10]:**  
-Movimento adicional: **+15 metros**. Bônus de dano: **+10**.  Você pode fazer **dois ataques adicionais** como ação bônus.  Todos os seus ataques têm **vantagem**. Críticos ocorrem em **18-20**. Você é **imune a medo e encantamento**. Duração: **10 minutos**. Usos: **5x por descanso longo**. 
+Movimento adicional: **+15 metros**. Bônus de dano: **+10**. Você pode fazer **dois ataques adicionais** como ação bônus. Todos os seus ataques têm **vantagem**. Críticos ocorrem em **18-20**. Você é **imune a medo e encantamento**. Duração: **10 minutos**. Usos: **5x por descanso longo**. 
 
 ---
 
@@ -149,23 +149,22 @@ Inimigos a até **6 metros** devem fazer teste de resistência de SAB (CD 8 + Pr
 Alcance aumenta para **9 metros**. Inimigos amedrontados têm **desvantagem em ataques** e não podem se aproximar de você.
 
 **[Evolução II - V4]:**  
-Alcance aumenta para **12 metros**. Inimigos **sangrando** têm **desvantagem** no teste.  Se falharem, ficam **paralisados** por 1 turno (em vez de amedrontados).
+Alcance aumenta para **12 metros**. Inimigos **sangrando** têm **desvantagem** no teste. Se falharem, ficam **paralisados** por 1 turno (em vez de amedrontados).
 
 **[Evolução III - V7]:**  
-Alcance aumenta para **15 metros**. Inimigos com **menos de metade do PV** falham **automaticamente** no teste.  Você ganha **vantagem em ataques** contra criaturas amedrontadas ou paralisadas.
+Alcance aumenta para **15 metros**. Inimigos com **menos de metade do PV** falham **automaticamente** no teste. Você ganha **vantagem em ataques** contra criaturas amedrontadas ou paralisadas.
 
 **[FINAL - V10]:**  
-Alcance aumenta para **18 metros**. Inimigos com **menos de 50 PV** morrem **instantaneamente** se falharem no teste (sem teste de resistência contra morte). Criaturas imunes a medo não são imunes a este efeito.  Você pode **desativar e reativar** esta aura como ação livre.
+Alcance aumenta para **18 metros**. Inimigos com **menos de 50 PV** morrem **instantaneamente** se falharem no teste (sem teste de resistência contra morte). Criaturas imunes a medo não são imunes a este efeito. Você pode **desativar e reativar** esta aura como ação livre.
 
 ---
 
 ### **NÍVEL 20: CEIFADOR DA MORTE (ULTIMATE)**
 **Tipo:** Ação  
-**Usos:** 1x por dia  
-**Duração:** 1 minuto
+**Usos:** 1x por dia
 
 **[BASE - V1]:**  
-Você se transforma em uma manifestação da morte pura. Durante a duração: 
+Você se transforma em uma manifestação da morte pura. Você ganha **1 minuto** de:
 - Todos os seus ataques causam **dano máximo** (não rola dados)
 - Sangramento causado por você causa **dano dobrado**
 - Você ganha **+50 PV temporários**
@@ -175,10 +174,10 @@ Você se transforma em uma manifestação da morte pura. Durante a duração:
 PV temporários: **+100**. Alcance dos ataques: **9 metros**. Você ganha **resistência a todos os danos**. Críticos são **automáticos** contra alvos sangrando.
 
 **[Evolução II - V4]:**  
-PV temporários: **+150**. Alcance dos ataques: **12 metros**.  Você se torna **incorpóreo** (pode atravessar objetos e criaturas). Todos os seus ataques causam **sangramento permanente** (não tem duração).
+PV temporários: **+150**. Alcance dos ataques: **12 metros**. Você se torna **incorpóreo** (pode atravessar objetos e criaturas). Todos os seus ataques causam **sangramento permanente** (não tem duração).
 
 **[Evolução III - V7]:**  
-PV temporários: **+200**. Alcance dos ataques: **15 metros**.  Você é **imune a todos os danos** exceto radiante. Quando uma criatura morre sangrando a até **18 metros**, você pode **ressuscitá-la como morto-vivo** sob seu controle por 1 hora.
+PV temporários: **+200**. Alcance dos ataques: **15 metros**. Você é **imune a todos os danos** exceto radiante. Quando uma criatura morre sangrando a até **18 metros**, você pode **ressuscitá-la como morto-vivo** sob seu controle por 1 hora.
 
 **[FINAL - V10]:**  
-PV temporários: **+300**. Alcance dos ataques: **24 metros**. Você é **imune a todos os danos** e **todas as condições**. Todos os seus ataques matam **instantaneamente** criaturas com menos de **100 PV**. Você pode fazer **ataques ilimitados** por turno.  Criaturas que morrem por suas mãos têm suas **almas destruídas** (não podem ser ressuscitadas por nenhum meio exceto Desejo). Duração: **10 minutos**. Quando a transformação termina, você cura **todo o seu PV**. 
+PV temporários: **+300**. Alcance dos ataques: **24 metros**. Você é **imune a todos os danos** e **todas as condições**. Todos os seus ataques matam **instantaneamente** criaturas com menos de **100 PV**. Você pode fazer **ataques ilimitados** por turno. Criaturas que morrem por suas mãos têm suas **almas destruídas** (não podem ser ressuscitadas por nenhum meio exceto Desejo). Duração: **10 minutos**. Quando a transformação termina, você cura **todo o seu PV**.
