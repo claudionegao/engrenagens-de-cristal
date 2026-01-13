@@ -47,10 +47,10 @@ Agora ignora **três-quartos de cobertura**. Bônus de acerto aumenta para **+3*
 Você ignora **toda cobertura** (exceto cobertura total). Adiciona **+1d6 de dano** em alvos a mais de 30 metros.
 
 **[Evolução III - V7]:**  
-Críticos ocorrem em **19-20**. Dano adicional aumenta para **+2d6** a longa distância.
+Críticos ocorrem em **19-20**. Dano adicional aumenta para **+2d8** a longa distância.
 
 **[FINAL - V10]:**  
-Críticos ocorrem em **18-20**. Você ignora **cobertura total** (pode atirar através de paredes finas). Dano adicional aumenta para **+3d6**. Seus ataques nunca têm **desvantagem por alcance**.
+Críticos ocorrem em **18-20**. Você ignora **cobertura total** (pode atirar através de paredes finas de até 15cm). Dano adicional aumenta para **+3d8** a longa distância. Seus ataques têm **vantagem** se você não se moveu no turno.
 
 ---
 
@@ -68,10 +68,10 @@ Alcance aumenta para **90 metros**. Raio aumenta para **4,5 metros**. Dano aumen
 Dano aumenta para **5d8**. Raio aumenta para **6 metros**. Alvos que falharem no save são **empurrados 3 metros** para fora do centro. 
 
 **[Evolução III - V7]:**  
-Dano aumenta para **6d8**. Raio aumenta para **7,5 metros**. Alvos que falharem ficam **caídos** e **em chamas** (1d6 de dano de fogo por turno até apagarem).
+Dano aumenta para **7d8**. Raio aumenta para **7,5 metros**. Alvos que falharem ficam **caídos** e **em chamas** (2d6 de dano de fogo por turno até apagarem com ação).
 
 **[FINAL - V10]:**  
-Dano aumenta para **10d8**. Raio aumenta para **9 metros**. Alcance aumenta para **120 metros**. Você pode disparar **3 rajadas** com uma única ação (alvos ou pontos diferentes). Alvos que falharem ficam **atordoados por 1 turno**. Usos: **5x por descanso curto**. 
+Dano aumenta para **10d8**. Raio aumenta para **9 metros**. Alcance aumenta para **120 metros**. Você pode disparar **2 rajadas** com uma única ação (alvos ou pontos diferentes). Alvos que falharem ficam **atordoados por 1 turno** e em chamas (3d6/turno). Usos: **5x por descanso curto**. 
 
 ---
 
@@ -93,10 +93,10 @@ Bônus de acerto aumenta para **+3**. Alcance aumenta para **(120/480 metros)**.
 Bônus de acerto aumenta para **+4**. Seus ataques causam **+2d8 de dano adicional**. Você pode fazer **dois ataques de oportunidade** por rodada.
 
 **[Evolução III - V7]:**  
-Alcance aumenta para **(180/720 metros)**. Dano adicional aumenta para **+3d8**. Críticos ocorrem em **18-20** durante o modo sniper.
+Alcance aumenta para **(150/600 metros)**. Dano adicional aumenta para **+3d8**. Críticos ocorrem em **19-20** durante o modo sniper.
 
 **[FINAL - V10]:**  
-Alcance aumenta para **(300/1200 metros)**. Bônus de acerto:  **+5**. Dano adicional:  **+5d8**. Todos os seus ataques durante o modo são **críticos automáticos** se o alvo não se moveu desde seu último turno.  Você pode fazer **ataques de oportunidade ilimitados**. Duração: **10 minutos**. Usos: **5x por descanso curto**. 
+Alcance aumenta para **(240/960 metros)**. Bônus de acerto: **+5**. Dano adicional: **+5d8**. Críticos ocorrem em **18-20**. Seu **primeiro ataque** por turno é crítico automático se o alvo não se moveu desde seu último turno. Você pode fazer **até 3 ataques de oportunidade** por rodada. Duração: **10 minutos**. Usos: **5x por descanso curto**. 
 
 ---
 
@@ -114,10 +114,10 @@ Comprimento aumenta para **45 metros**. Largura aumenta para **3 metros**. Dano 
 Comprimento aumenta para **60 metros**. Dano aumenta para **6d10**. O tiro perfura **paredes e obstáculos** (atravessa até 30cm de pedra ou 60cm de madeira).
 
 **[Evolução III - V7]:**  
-Comprimento aumenta para **90 metros**. Largura aumenta para **4,5 metros**. Dano aumenta para **8d10**. Alvos que falharem são **derrubados** e sofrem **sangramento** (2d6 por turno por 3 turnos).
+Comprimento aumenta para **75 metros**. Largura aumenta para **4,5 metros**. Dano aumenta para **8d10**. Alvos que falharem são **derrubados** e sofrem **sangramento** (2d6 por turno por 3 turnos).
 
 **[FINAL - V10]:**  
-Comprimento aumenta para **120 metros**.  Largura aumenta para **6 metros**. Dano aumenta para **12d10**. O tiro perfura **qualquer material** não-mágico.  Alvos que falharem são **atordoados por 2 turnos** e sofrem **sangramento crítico** (4d6 por turno até serem curados magicamente). Ignora **imunidade a dano perfurante** (trata como resistência). Usos: **5x por descanso curto**. 
+Comprimento aumenta para **90 metros**. Largura aumenta para **6 metros**. Dano aumenta para **10d10**. O tiro perfura **qualquer material** não-mágico. Alvos que falharem são **atordoados por 1 turno** e sofrem **sangramento crítico** (4d6 por turno até serem curados magicamente). Trata imunidade a perfurante como resistência. Usos: **5x por descanso curto**. 
 
 ---
 
@@ -135,10 +135,10 @@ Alcance aumenta para **180 metros**. Raio aumenta para **9 metros**. Dano aument
 Dano aumenta para **12d8**. Raio aumenta para **12 metros**.  Alvos que falharem são **derrubados** e **cegos por 1 turno** (pelo brilho da explosão).
 
 **[Evolução III - V7]:**  
-Dano aumenta para **15d8**. Raio aumenta para **15 metros**.  Você pode marcar **até 3 pontos** diferentes com uma única ação. Alvos que falharem ficam **atordoados por 2 turnos**. 
+Dano aumenta para **12d8**. Raio aumenta para **12 metros**. Você pode marcar **até 2 pontos** diferentes com uma única ação. Alvos que falharem ficam **atordoados por 1 turno**. 
 
 **[FINAL - V10]:**  
-Dano aumenta para **20d8**.  Raio aumenta para **18 metros**. Alcance aumenta para **300 metros** (linha de visão). Você pode marcar **até 5 pontos** diferentes.  Alvos que falharem sofrem **dano máximo** (não rola dados) e ficam **incapacitados por 3 turnos**. A área fica **zona morta** (qualquer criatura que entrar sofre 4d8 de dano de radiação por turno, dura 10 minutos). Usos: **2x por descanso longo**. 
+Dano aumenta para **18d8**. Raio aumenta para **15 metros**. Alcance aumenta para **240 metros** (linha de visão). Você pode marcar **até 3 pontos** diferentes. Alvos que falharem sofrem **dano crítico** (dados dobrados) e ficam **incapacitados por 1 turno**. A área fica **zona perigosa** (qualquer criatura que entrar sofre 4d8 de dano de radiação por turno, dura 5 rodadas). Usos: **2x por descanso longo**. 
 
 ---
 
@@ -148,6 +148,18 @@ Dano aumenta para **20d8**.  Raio aumenta para **18 metros**. Alcance aumenta pa
 
 **[BASE - V1]:**  
 Todos os seus ataques à distância adicionam **+2d6 de dano de força**. Seu alcance normal aumenta permanentemente para **(60/240 metros)**.
+
+**[Evolução I - V2]:**  
+Dano adicional aumenta para **+3d6**. Alcance: **(75/300 metros)**. Você ignora **resistência a dano de força**.
+
+**[Evolução II - V4]:**  
+Dano adicional aumenta para **+4d6**. Alcance: **(90/360 metros)**. Seus ataques empurram alvos **1,5 metros** para trás.
+
+**[Evolução III - V7]:**  
+Dano adicional aumenta para **+5d6**. Alcance: **(120/480 metros)**. Alvos Grandes ou menores são empurrados **3 metros**.
+
+**[FINAL - V10]:**  
+Dano adicional aumenta para **+6d6**. Alcance: **(150/600 metros)**. Seus ataques à distância têm **+2 no acerto**. Você pode **recarregar como ação livre** (sem custo de ação). Alvos Enormes ou menores são empurrados **4,5 metros**.
 
 **[Evolução I - V2]:**  
 Dano adicional aumenta para **+3d6**. Alcance aumenta para **(90/360 metros)**. Você pode recarregar como **ação livre** (sem custo de ação).

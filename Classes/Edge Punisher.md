@@ -70,7 +70,7 @@ Distância aumenta para **15 metros**. Dano adicional aumenta para **+4d8**. Tod
 Distância aumenta para **18 metros**. Dano do alvo principal: **+6d8**. Dano colateral: **4d8**. Alvos que colidirem com paredes/objetos sofrem **+2d8 adicional**.
 
 **[FINAL - V10]:**  
-Distância aumenta para **24 metros**. Dano do alvo principal: **+8d8**. Todos no caminho sofrem **6d8**. Você atravessa **paredes não-mágicas** (até 30cm de espessura). Usos: **3x por descanso curto**.
+Distância aumenta para **21 metros**. Dano do alvo principal: **+8d10**. Todos no caminho sofrem **5d10**. Você atravessa **paredes não-mágicas** (até 30cm de espessura). Alvos que colidirem com obstáculos sofrem **+3d10 adicional**.
 
 ---
 
@@ -88,10 +88,10 @@ Alcance aumenta para **4,5 metros**. Bônus aumenta para **+6 CA**. Se o ataque 
 Alcance aumenta para **6 metros**. Bônus aumenta para **+7 CA**. Se o ataque errar, você **reflete metade do dano** no agressor.
 
 **[Evolução III - V7]:**  
-Alcance aumenta para **9 metros**. O aliado fica **imune** ao ataque. Você reflete **todo o dano** no agressor.
+Alcance aumenta para **9 metros**. Bônus aumenta para **+8 CA**. Se o ataque errar, você reflete **todo o dano** no agressor.
 
 **[FINAL - V10]:**  
-Alcance aumenta para **12 metros**. Você pode proteger **até 3 aliados** com uma única reação. Todos ficam **imunes**. Agressores sofrem **dano dobrado refletido**.
+Alcance aumenta para **12 metros**. Você pode proteger **até 2 aliados** com uma única reação. Aliados ganham **+10 CA** contra o ataque. Se o ataque errar, agressores sofrem **dano refletido dobrado**.
 
 ---
 
@@ -110,10 +110,10 @@ Bônus aumenta para **+5 de dano**. Você ganha **resistência a dano físico** 
 Bônus aumenta para **+7 de dano**. Você se torna **imune a medo e encantamento**. Críticos ocorrem em **19-20**.
 
 **[Evolução III - V7]:**  
-Bônus aumenta para **+10 de dano**. Você ganha **+3 metros de movimento** (anula penalidade da arma). Seus ataques **ignoram resistência**.
+Bônus aumenta para **+8 de dano**. Você ganha **+3 metros de movimento** (anula penalidade da arma). Seus ataques **ignoram resistência a dano físico**.
 
 **[FINAL - V10]:**  
-Bônus aumenta para **+15 de dano**. Você fica **imune a dano físico não-mágico**. Todos os seus ataques causam **dano máximo** (não rola dados). Duração: **10 minutos**. Usos: **2x por descanso longo**.
+Bônus aumenta para **+10 de dano**. Você ganha **resistência a todo dano físico** (metade do dano). Seus **primeiros 3 ataques por turno** causam **dano máximo** (não rola dados de dano).
 
 ---
 
@@ -131,10 +131,10 @@ Alcance aumenta para **9 metros**. Dano aumenta para **6d10**. O terreno fica **
 Alcance aumenta para **12 metros**. Dano aumenta para **8d10**. Cria **fissuras** no chão (terreno difícil permanente). Criaturas que falharem ficam **presas** (restrained) até usarem ação para escapar.
 
 **[Evolução III - V7]:**  
-Alcance aumenta para **15 metros**. Dano aumenta para **10d10**. Estruturas no alcance sofrem **dano dobrado**. Criaturas voadoras a até **9 metros** de altura também são afetadas.
+Alcance aumenta para **15 metros**. Dano aumenta para **8d10**. Estruturas no alcance sofrem **dano dobrado**. Criaturas voadoras a até **9 metros** de altura também são afetadas.
 
 **[FINAL - V10]:**  
-Alcance aumenta para **24 metros**. Dano aumenta para **15d10**. O terreno **desmorona** criando crateras. Criaturas que falharem no save ficam **enterradas** (incapacitated, sufocando). Estruturas **colapsam**. Usos: **2x por descanso longo**.
+Alcance aumenta para **21 metros**. Dano aumenta para **10d10**. O terreno **desmorona** criando crateras (terreno difícil permanente). Criaturas que falharem no save ficam **caídas e impedidas** (restrained) até usarem ação para escapar. Estruturas no alcance sofrem **dano estrutural severo** (colapso em 1d4 rodadas).
 
 ---
 

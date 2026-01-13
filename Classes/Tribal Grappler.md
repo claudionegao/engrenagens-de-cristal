@@ -46,10 +46,10 @@ Dano aumenta para **1d10 + modificador de Força**. Você pode atacar **duas vez
 Dano aumenta para **2d6 + modificador de Força**. Ataques desarmados têm **+1 de alcance** (3 metros).
 
 **[Evolução III - V7]:**  
-Dano aumenta para **2d8 + modificador de Força**. Críticos ocorrem em **19-20**. Você adiciona **+1d6 de dano** contra alvos agarrados.
+Dano aumenta para **2d8 + modificador de Força**. Críticos ocorrem em **19-20**. Você adiciona **+2d6 de dano** contra alvos agarrados.
 
 **[FINAL - V10]:**  
-Dano aumenta para **3d8 + modificador de Força**. Você pode atacar **três vezes** como ação. Críticos causam **sangramento** (2d6 de dano por turno por 3 turnos). Ignora resistência a dano físico.
+Dano aumenta para **3d8 + modificador de Força**. Você pode atacar **três vezes** como ação (máximo 6 com bônus). Críticos causam **sangramento** (2d6 de dano por turno por 3 turnos). Seus ataques **tratam resistência como vulnerabilidade** (dano normal).
 
 ---
 
@@ -67,10 +67,10 @@ Dano por turno aumenta para **2d6**. Você tem **vantagem** no teste de agarrar.
 Dano por turno aumenta para **3d6**. Você pode agarrar **dois alvos** simultaneamente (um em cada mão).
 
 **[Evolução III - V7]:**  
-Dano por turno aumenta para **4d6**. Alvos agarrados ficam também **impedidos** (restrained). Você pode usar **ação bônus** para arremessar alvo agarrado até **6 metros** (alvo sofre 2d8 de dano ao colidir).
+Dano por turno aumenta para **4d6**. Alvos agarrados ficam também **impedidos** (restrained). Você pode usar **ação bônus** para arremessar alvo agarrado até **6 metros** (alvo sofre 3d8 de dano ao colidir).
 
 **[FINAL - V10]:**  
-Dano por turno aumenta para **6d6**. Você pode agarrar até **três alvos**. Alvos agarrados ficam **incapacitados**. Você pode **esmagar** como ação bônus (alvo sofre 4d10 de dano, sem teste de resistência).
+Dano por turno aumenta para **5d6**. Você pode agarrar até **dois alvos** (um em cada mão). Alvos agarrados ficam **incapacitados**. Você pode **esmagar** como ação bônus (alvo sofre 5d10 de dano, sem teste de resistência).
 
 ---
 
@@ -107,13 +107,13 @@ Sua pele se endurece como rocha. Você ganha **resistência a dano físico** (co
 Você também ganha **+2 CA**. Resistência se aplica a dano físico mágico e não-mágico.
 
 **[Evolução II - V4]:**  
-CA aumenta para **+3**. Você ganha **resistência a dano de fogo e gelo**. Testes de Força têm **vantagem**.
+CA aumenta para **+4**. Você ganha **resistência a dano de fogo e gelo**. Você tem **vantagem** para resistir a ser empurrado, derrubado ou agarrado. Críticos contra você contam como **acertos normais**.
 
 **[Evolução III - V7]:**  
 CA aumenta para **+4**. Você se torna **imune a ser empurrado, derrubado ou agarrado** contra sua vontade. Críticos contra você contam como **acertos normais**.
 
 **[FINAL - V10]:**  
-CA aumenta para **+5**. Você ganha **imunidade a dano físico não-mágico**. Dano físico mágico é reduzido pela metade. Duração: **10 minutos**. Usos: **5x por descanso longo**.
+CA aumenta para **+5**. Você ganha **resistência a todo dano físico** (mágico ou não, metade do dano). Dano físico é **reduzido em 5 pontos adicionais** (após resistência). Você não pode ser empurrado, derrubado ou agarrado contra sua vontade. Duração: **10 minutos**. Usos: **5x por descanso longo**.
 
 ---
 
@@ -131,10 +131,10 @@ Dano aumenta para **8d10**. Funciona em criaturas **Enormes**. Cria uma **onda d
 Dano aumenta para **10d10**. Onda de choque aumenta para **6m** e causa **5d10 de dano**. Cria **crateras** (terreno difícil permanente).
 
 **[Evolução III - V7]:**  
-Dano aumenta para **15d10**. Funciona em criaturas **Gargantuescas**. Onda de choque: **9m** e **7d10 de dano**. Alvos que falharem no teste ficam **enterrados** (incapacitated até serem escavados).
+Dano aumenta para **12d10**. Funciona em criaturas **Gargantuescas**. Onda de choque: **9m** e **6d10 de dano**. Alvos que falharem no teste ficam **caídos e atordoados** por 1 turno.
 
 **[FINAL - V10]:**  
-Dano aumenta para **20d10**. Onda de choque: **12m** e **10d10 de dano**. O impacto causa **terremoto** (estruturas em 30m sofrem dano estrutural). Se o alvo morrer, **explode** (6d10 de dano em 6m). Usos: **2x por descanso longo**.
+Dano aumenta para **18d10**. Onda de choque: **12m** e **8d10 de dano**. O impacto causa **dano estrutural severo** (estruturas em 30m sofrem dano e podem colapsar em 1d4 rodadas). Se o alvo morrer com o impacto, cria **segunda onda de choque** (5d10 de dano em 6m). Usos: **2x por descanso longo**.
 
 ---
 
@@ -149,13 +149,13 @@ Quando chega a **metade do seu PV ou menos**, ganha **+2 de dano** em todos os a
 Bônus aumenta para **+4 de dano**. Você ganha **vantagem em testes de Força** e testes de resistência de Constituição.
 
 **[Evolução II - V4]:**  
-Bônus aumenta para **+6 de dano**. Você ganha **+3m de movimento**. Ataques de oportunidade contra você têm **desvantagem**.
+Bônus aumenta para **+8 de dano**. Você ganha **+3m de movimento**. Quando sofre dano que o reduziria a 0 PV, pode fazer teste de resistência de CON (CD 10 + metade do dano). Sucesso: fica com **1 PV** (1x por descanso longo).
 
 **[Evolução III - V7]:**  
 Bônus aumenta para **+8 de dano**. Quando sofre dano que o reduziria a 0 PV, pode fazer teste de resistência de CON (CD 10 + metade do dano). Sucesso: fica com **1 PV**.
 
 **[FINAL - V10]:**  
-Bônus aumenta para **+10 de dano**. Você fica **imune a medo, encantamento e atordoamento**. Quando usa o teste de resistência para evitar 0 PV, tem **vantagem** e pode usar **ilimitadas vezes** por combate. Você se **cura 2d8 PV** no início de cada turno enquanto estiver abaixo de metade do PV.
+Bônus aumenta para **+10 de dano**. Você fica **imune a medo, encantamento e atordoamento**. Quando usa o teste de resistência para evitar 0 PV, tem **vantagem** e pode usar **3x por combate**. Você se **cura 2d8 PV** no início de cada turno enquanto estiver abaixo de metade do PV.
 
 ---
 
@@ -178,7 +178,7 @@ Tamanho aumenta para **Enorme**. PV temporários: **+100**. Bônus de dano: **+8
 Tamanho aumenta para **Gigantesco**. PV temporários: **+150**. Bônus de dano: **+12**. Resistência se torna **imunidade** a dano físico. Seus ataques causam **dano de área** (3m ao redor do alvo sofre metade do dano).
 
 **[Evolução III - V7]:**  
-Tamanho aumenta para **Colossal** (6m de altura). PV temporários: **+200**. Bônus de dano: **+15**. Você ganha **regeneração de 5d10 PV por turno**. Seus ataques **destroem estruturas** automaticamente.
+Tamanho aumenta para **Gigantesco**. PV temporários: **+150**. Bônus de dano: **+12**. Resistência se torna **resistência a todo dano físico** (metade). Seus ataques causam **dano de área** (1,5m ao redor do alvo sofre metade do dano).
 
 **[FINAL - V10]:**  
-Tamanho aumenta para **Titânico** (9m de altura). PV temporários: **+300**. Bônus de dano: **+20**. Você é **imune a todos os danos** exceto psíquico. Regeneração: **10d10 PV por turno**. Seus ataques **ignoram imunidades**. Você pode fazer **ataques ilimitados** por turno. Inimigos a até **9m** devem fazer teste de resistência de SAB (CD 20) no início do turno ou ficam **amedrontados**. Duração: **10 minutos**.
+Tamanho aumenta para **Colossal** (6m+ de altura). PV temporários: **+200**. Bônus de dano: **+15**. Você ganha **resistência a todo dano**. Regeneração: **5d10 PV por turno**. Seus ataques causam **dano de área** (3m ao redor sofre metade). Você pode fazer **até 6 ataques** por turno. Inimigos a até **9m** devem fazer save de SAB (CD 18) no início do turno ou ficam **amedrontados**. Duração: **5 minutos**.

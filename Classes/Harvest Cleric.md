@@ -46,10 +46,10 @@ Cura aumenta para **3d8 + modificador de Sabedoria**. Remove **1 condição** (e
 Cura aumenta para **4d8 + modificador de Sabedoria**.  Remove **até 2 condições**. Pode ser usado como **ação bônus**.
 
 **[Evolução III - V7]:**  
-Cura aumenta para **5d8 + modificador de Sabedoria**. Remove **todas as condições não-mágicas**. Alcance aumenta para **3 metros**.
+Cura aumenta para **5d8 + modificador de Sabedoria**. Remove **até 3 condições** (veneno, doença, cegueira, surdez, paralisia). Alcance aumenta para **3 metros**.
 
 **[FINAL - V10]:**  
-Cura aumenta para **8d8 + modificador de Sabedoria**. Remove **todas as condições** (incluindo mágicas). Alcance aumenta para **9 metros**. Pode afetar **até 3 alvos** simultaneamente.
+Cura aumenta para **8d8 + modificador de Sabedoria**. Remove **todas as condições** (incluindo mágicas). Alcance aumenta para **9 metros**. Pode afetar **até 2 alvos** simultaneamente.
 
 ---
 
@@ -68,10 +68,10 @@ Bônus aumenta para **+3 CA**. Alcance aumenta para **4,5 metros**.
 Bônus aumenta para **+4 CA**. Aliados também ganham **vantagem em testes de resistência contra magias**. 
 
 **[Evolução III - V7]:**  
-Bônus aumenta para **+5 CA**. Alcance aumenta para **6 metros**.  Aliados ganham **resistência a dano necrótico e radiante**.
+Bônus aumenta para **+5 CA**. Alcance aumenta para **6 metros**. Aliados ganham **vantagem em testes de resistência contra magias** e **resistência a dano necrótico e radiante**.
 
 **[FINAL - V10]:**  
-Bônus aumenta para **+6 CA**. Alcance aumenta para **9 metros**.  Aliados ficam **imunes a medo e encantamento**. Ganham **regeneração de 1d6 PV** no início de cada turno.  Duração: **10 minutos**.
+Bônus aumenta para **+5 CA**. Alcance aumenta para **9 metros**. Aliados têm **vantagem em saves contra medo e encantamento**. Ganham **regeneração de 1d8 HP** no início de cada turno. Duração: **10 minutos**.
 
 ---
 
@@ -89,10 +89,10 @@ O aliado retorna com **metade do PV máximo**. Pode ter morrido há até **10 mi
 O aliado retorna com **todo o PV**. Remove todas as condições.  Pode ter morrido há até **1 hora**. Usos: **2x por descanso longo**.
 
 **[Evolução III - V7]:**  
-O aliado retorna com todo PV e ganha **vantagem em ataques** por 1 minuto. Pode ter morrido há até **24 horas**.  Não sofre penalidades de ressurreição.
+O aliado retorna com todo o PV e ganha **vantagem em ataques** por 1 minuto. Pode ter morrido há até **1 hora**. Não sofre penalidades de ressurreição.
 
 **[FINAL - V10]:**  
-O aliado retorna com todo PV e **imunidade a dano** por 1 minuto. Pode ter morrido há até **10 dias**.  Membros perdidos são **regenerados**. Não requer componentes materiais. Usos: **3x por descanso longo**.
+O aliado retorna com todo PV e **resistência a todo dano** por 1 minuto. Pode ter morrido há até **24 horas**. Membros perdidos são **regenerados**. Não requer componentes materiais. Usos: **3x por descanso longo**.
 
 ---
 
@@ -111,10 +111,10 @@ Bônus aumenta para **+1d6**. PV temporários dobram. Afeta até **4 aliados**.
 Bônus aumenta para **+1d8**. Aliados também ganham **+1d6 de dano radiante** em ataques. Afeta até **5 aliados**.
 
 **[Evolução III - V7]:**  
-Bônus aumenta para **+1d10**.  Duração aumenta para **8 horas**. Aliados ganham **vantagem em testes de resistência contra morte**. 
+Bônus aumenta para **+1d8**. Duração aumenta para **8 horas**. Aliados ganham **vantagem em death saves**. Afeta até **6 aliados**. 
 
 **[FINAL - V10]:**  
-Bônus aumenta para **+2d6**. Duração: **24 horas**. Afeta **todos os aliados** que você possa ver. Aliados abençoados **não podem morrer** enquanto tiverem mais de 0 PV (ficam estáveis automaticamente em 1 PV).
+Bônus aumenta para **+1d10**. Duração: **24 horas**. Afeta **todos os aliados** que você possa ver. Aliados abençoados têm **vantagem em death saves** e, quando chegam a 0 HP, **estabilizam automaticamente em 1 HP** (1x por alvo até descanso longo).
 
 ---
 
@@ -132,10 +132,10 @@ Cura aumenta para **7d8 PV**. Raio aumenta para **9 metros**. O círculo permane
 Cura aumenta para **10d8 PV**.  Raio aumenta para **12 metros**. Aliados dentro ganham **regeneração de 2d8 PV por turno**.
 
 **[Evolução III - V7]:**  
-Cura aumenta para **15d8 PV**. Raio aumenta para **15 metros**. O círculo **move-se com você**. Inimigos dentro sofrem **desvantagem em ataques**.
+Cura aumenta para **12d8 PV**. Raio aumenta para **15 metros**. O círculo **move-se com você**. Aliados dentro ganham **regeneração de 2d8 PV por turno**. Inimigos dentro sofrem **desvantagem em ataques**.
 
 **[FINAL - V10]:**  
-Cura aumenta para **20d8 PV**. Raio aumenta para **24 metros**. Regeneração aumenta para **5d8 PV por turno**.  Aliados dentro são **imunes a dano necrótico**.  Mortos-vivos que entrarem sofrem **10d8 de dano radiante** por turno. Duração: **10 minutos**. Usos: **2x por descanso longo**.
+Cura aumenta para **20d8 PV**. Raio aumenta para **18 metros**. Regeneração aumenta para **4d8 PV por turno**. Aliados dentro ganham **resistência a dano necrótico**. Mortos-vivos que entrarem sofrem **8d8 de dano radiante** por turno. Duração: **10 minutos**. Usos: **2x por descanso longo**.
 
 ---
 

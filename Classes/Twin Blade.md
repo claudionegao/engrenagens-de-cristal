@@ -49,7 +49,7 @@ O ataque bônus ganha **+1d6 de dano** adicional (substitui o +1d4).
 O ataque bônus ganha **+1d8 de dano** adicional. Você pode trocar o dano por movimento (teleporte 1,5m).
 
 **[FINAL - V10]:**  
-O ataque bônus ganha **+2d6 de dano**. Você pode fazer **dois** ataques bônus em vez de um.
+O ataque bônus ganha **+2d6 de dano**. Você pode fazer **dois** ataques bônus em vez de um (máximo 4 ataques totais por turno).
 
 ---
 
@@ -67,10 +67,10 @@ Agora faz **4 ataques extras**. Usos: **2x por descanso curto**.
 Faça **5 ataques extras**. Todos os ataques têm **vantagem**.
 
 **[Evolução III - V7]:**  
-Faça **6 ataques extras** com vantagem. Críticos ocorrem em **19-20**.
+Faça **5 ataques extras** com vantagem. Críticos ocorrem em **19-20**.
 
 **[FINAL - V10]:**  
-Faça **8 ataques extras** com vantagem. Todos os ataques são **críticos automáticos**. Usos: **3x por descanso curto**.
+Faça **6 ataques extras** com vantagem. Críticos ocorrem em **18-20**. O **primeiro acerto** é crítico automático. Usos: **3x por descanso curto**.
 
 ---
 
@@ -88,10 +88,10 @@ O bônus aumenta para **+2d6 de dano**.
 O bônus aumenta para **+3d6 de dano**. O dano extra **ignora resistência**.
 
 **[Evolução III - V7]:**  
-O bônus aumenta para **+4d6 de dano**. Você cura **1d6 HP** por acerto no combo.
+O bônus aumenta para **+4d6 de dano**. Você cura **1d6 HP** a cada 2 acertos no combo.
 
 **[FINAL - V10]:**  
-O bônus aumenta para **+6d6 de dano**. Você cura **2d6 HP** por acerto. O alvo deve fazer save de CON (CD 8 + Prof + mod) ou fica **atordoado** até o fim do próximo turno.
+O bônus aumenta para **+6d6 de dano**. Você cura **1d8 HP** por acerto no combo. Se acertar **5+ ataques** no mesmo alvo no turno, ele deve fazer save de CON (CD 8 + Prof + mod) ou fica **atordoado** até o fim do próximo turno.
 
 ---
 
@@ -109,10 +109,10 @@ Alcance aumenta para **6 metros**. Usos: **3x por descanso curto**.
 Alcance aumenta para **9 metros**. Você fica **invisível** até o fim do seu turno.
 
 **[Evolução III - V7]:**  
-Alcance aumenta para **12 metros**. O próximo ataque após teleportar tem **vantagem** e adiciona **+2d8 de dano**.
+Alcance aumenta para **12 metros**. O próximo ataque após teleportar tem **vantagem** e adiciona **+3d8 de dano**.
 
 **[FINAL - V10]:**  
-Alcance aumenta para **15 metros**. Você pode teleportar **duas vezes** com a mesma ação bônus. O primeiro ataque após cada teleporte é um **crítico automático**.
+Alcance aumenta para **15 metros**. Você pode teleportar **duas vezes** com a mesma ação bônus. O primeiro ataque após cada teleporte tem **vantagem** e adiciona **+4d8 de dano**. Usos: **4x por descanso curto**.
 
 ---
 
@@ -130,10 +130,10 @@ Alcance aumenta para **4,5 metros**. Dano aumenta para **4d8**.
 Alcance aumenta para **6 metros**. Dano aumenta para **5d8**. Alvos que falharem no save começam a **sangrar** (1d6 dano no início de cada turno, dura 3 turnos).
 
 **[Evolução III - V7]:**  
-Alcance aumenta para **7,5 metros**. Dano aumenta para **6d8**. Alvos que falharem no save ficam **atordoados** até o fim do próximo turno.
+Alcance aumenta para **7,5 metros**. Dano aumenta para **6d8**. Alvos que falharem no save sofrem **sangramento** (2d6 de dano no início do turno por 3 turnos).
 
 **[FINAL - V10]:**  
-Alcance aumenta para **9 metros**. Dano aumenta para **10d8**. Alvos que falharem no save ficam **atordoados por 2 turnos** e sofrem **sangramento grave** (2d8 por turno). Usos: **2x por descanso longo**.
+Alcance aumenta para **9 metros**. Dano aumenta para **10d8**. Alvos que falharem no save ficam **atordoados até o fim do próximo turno** e sofrem **sangramento grave** (3d6 por turno por 4 turnos). Usos: **2x por descanso longo**.
 
 ---
 
@@ -172,12 +172,12 @@ O turno extra tem **vantagem em todos os ataques**. Você recupera **metade dos 
 Você ganha **2 turnos extras**. Durante esses turnos, todos os seus ataques causam dano **máximo** (não rola dados).
 
 **[Evolução III - V7]:**  
-Você ganha **2 turnos extras**. Durante esses turnos, você é **invulnerável** (imune a todo dano). Recupera **todos os seus HP**.
+Você ganha **2 turnos extras**. Durante esses turnos, você tem **resistência a todo dano**. Recupera **todos os seus HP**.
 
 **[FINAL - V10]:**  
 Você ganha **3 turnos extras**. Durante esses turnos:
-- Invulnerável
-- Todos os ataques são críticos automáticos com dano máximo
-- Movimento infinito (pode se mover quanto quiser)
-- Pode usar **todas as suas habilidades** sem custo de usos
+- **Resistência a todo dano**
+- **Primeiro ataque** por turno é crítico automático
+- **+15 metros de movimento**
+- Pode usar **até 2 habilidades** sem custo de usos
 - Ao final, recupera todos HP e remove todas condições negativas

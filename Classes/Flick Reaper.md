@@ -49,7 +49,7 @@ Sangramento aumenta para **3d6 de dano**. Você ganha **+1d6 de dano** contra al
 Sangramento aumenta para **4d6 de dano**. Duração: **5 turnos**. Alvos sangrando têm **desvantagem em testes de concentração**. 
 
 **[FINAL - V10]:**  
-Sangramento aumenta para **6d6 de dano**. Sangramento **não pode ser curado** por magia de cura menor que 3º círculo. Você se **cura 1d6 PV** para cada criatura sangrando a até **9 metros** no início do seu turno.
+Sangramento aumenta para **5d6 de dano**. Sangramento **requer magia de cura de 3º círculo ou superior** para ser curado. Você se **cura 1d8 HP** para cada criatura sangrando a até **9 metros** no início do seu turno.
 
 ---
 
@@ -67,10 +67,10 @@ Alcance aumenta para **4,5 metros**. Dano adicional aumenta para **2d8**. Usos: 
 Alcance aumenta para **6 metros**. Dano adicional aumenta para **3d8**. Você pode se mover até **3 metros** durante o giro.
 
 **[Evolução III - V7]:**  
-Alcance aumenta para **7,5 metros**. Dano adicional aumenta para **4d8**. Alvos atingidos devem fazer teste de resistência de CON (CD 8 + Prof + mod) ou ficam **sangrando gravemente** (sangramento dobrado).
+Alcance aumenta para **7,5 metros**. Dano adicional aumenta para **4d8**. Alvos atingidos devem fazer teste de resistência de CON (CD 8 + Prof + mod) ou ficam **sangrando gravemente** (sangramento dobrado: 10d6/turno).
 
 **[FINAL - V10]:**  
-Alcance aumenta para **9 metros**. Dano adicional aumenta para **6d8**. Você pode girar **duas vezes** consecutivas (atinge todos os inimigos no alcance duas vezes). Movimento durante o giro aumenta para **6 metros**. Crítico automático contra alvos já sangrando. Usos: **5x por descanso curto**. 
+Alcance aumenta para **9 metros**. Dano adicional aumenta para **6d8**. Você pode girar **duas vezes** consecutivas (atinge todos os inimigos no alcance duas vezes). Movimento durante o giro aumenta para **6 metros**. Acertos contra alvos já sangrando têm **vantagem** e causam **+2d8 extra**. Usos: **5x por descanso curto**. 
 
 ---
 
@@ -88,10 +88,10 @@ Cura aumenta para **2d8 PV**. Bônus de dano aumenta para **+2d6**. Você també
 Cura aumenta para **3d8 PV**. Bônus de dano aumenta para **+3d6**. PV temporários: **10**. O bônus de dano dura por **2 ataques**.
 
 **[Evolução III - V7]:**  
-Cura aumenta para **4d8 PV**. Bônus de dano aumenta para **+4d6**. PV temporários: **15**. Você ganha **movimento extra de 3 metros** até o fim do turno. 
+Cura aumenta para **4d8 PV**. Bônus de dano aumenta para **+4d6** (dura 2 ataques). PV temporários: **15**. Você ganha **movimento extra de 3 metros** até o fim do turno. 
 
 **[FINAL - V10]:**  
-Cura aumenta para **6d8 PV**. Bônus de dano aumenta para **+6d6**. PV temporários: **25**. O bônus de dano dura por **5 ataques**. Você ganha **ação bônus adicional** que pode usar para atacar. Quando colhe uma alma, seu próximo ataque é **crítico automático**. 
+Cura aumenta para **6d8 PV**. Bônus de dano aumenta para **+5d6** (dura 3 ataques). PV temporários: **25**. Você ganha **ação bônus adicional** que pode usar para atacar. Quando colhe uma alma, seu **próximo ataque** tem **vantagem** e causa **+3d8 de dano extra**. 
 
 ---
 
@@ -110,10 +110,10 @@ Movimento adicional: **+6 metros**. Bônus de dano: **+4**. Alcance adicional: *
 Movimento adicional: **+9 metros**. Bônus de dano: **+6**. Você pode fazer um **ataque adicional** como ação bônus.
 
 **[Evolução III - V7]:**  
-Movimento adicional: **+12 metros**. Bônus de dano: **+8**. Todos os seus ataques causam **sangramento crítico** (dano de sangramento dobrado). Você pode usar **Giro Mortal** como ação bônus.
+Movimento adicional: **+12 metros**. Bônus de dano: **+7**. Todos os seus ataques causam **sangramento crítico** (dano de sangramento dobrado: 10d6/turno). Você pode usar **Giro Mortal** como ação bônus.
 
 **[FINAL - V10]:**  
-Movimento adicional: **+15 metros**. Bônus de dano: **+10**. Você pode fazer **dois ataques adicionais** como ação bônus. Todos os seus ataques têm **vantagem**. Críticos ocorrem em **18-20**. Você é **imune a medo e encantamento**. Duração: **10 minutos**. Usos: **5x por descanso longo**. 
+Movimento adicional: **+15 metros**. Bônus de dano: **+10**. Você pode fazer **um ataque adicional** como ação bônus (máximo 6 ataques/turno). Todos os seus ataques têm **vantagem**. Críticos ocorrem em **19-20**. Você é **imune a medo e encantamento**. Duração: **10 minutos**. Usos: **5x por descanso longo**. 
 
 ---
 
@@ -131,10 +131,10 @@ Comprimento: **24 metros**. Largura: **4,5 metros**. Dano aumenta para **10d8**.
 Comprimento: **30 metros**. Largura: **6 metros**. Dano aumenta para **12d8**. Você pode criar **duas ondas** em direções diferentes.
 
 **[Evolução III - V7]:**  
-Comprimento: **36 metros**. Largura: **7,5 metros**. Dano aumenta para **15d8**. As ondas **atravessam objetos e paredes** (até 30cm de espessura). Criaturas que falharem no teste sofrem **sangramento grave** (dano de sangramento triplicado).
+Comprimento: **30 metros**. Largura: **7,5 metros**. Dano aumenta para **12d8**. As ondas **atravessam objetos e paredes** (até 30cm de espessura). Criaturas que falharem no teste sofrem **sangramento grave** (dano de sangramento triplicado: 15d6/turno).
 
 **[FINAL - V10]:**  
-Comprimento: **45 metros**. Largura: **9 metros**. Dano aumenta para **20d8**. Você pode criar **três ondas**. As ondas causam **crítico automático** contra alvos já sangrando. Criaturas que falharem no teste perdem **um membro** (braço/perna, escolha do Mestre, incapacita até regeneração). Usos: **2x por descanso longo**. 
+Comprimento: **36 metros**. Largura: **9 metros**. Dano aumenta para **18d8**. Você pode criar **duas ondas**. As ondas causam **dano crítico** (dados dobrados) contra alvos já sangrando. Criaturas que falharem no teste sofrem **sangramento massivo** (6d6/turno) e ficam **impedidas** por 1 turno. Usos: **2x por descanso longo**. 
 
 ---
 

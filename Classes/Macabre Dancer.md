@@ -46,10 +46,10 @@ Bônus de CA aumenta para **+3**.  Distância mínima reduzida para **1,5 metros
 Bônus de CA aumenta para **+4**. Você pode usar **Esquiva como ação bônus** após se mover.
 
 **[Evolução III - V7]:**  
-Bônus de CA aumenta para **+5**.  Você ganha **vantagem em saves de Destreza** até seu próximo turno.
+Bônus de CA aumenta para **+5**. Você ganha **vantagem em saves de Destreza** até seu próximo turno. Ataques de oportunidade contra você têm **desvantagem**.
 
 **[FINAL - V10]:**  
-Bônus de CA aumenta para **+6**.  Você ganha **evasão completa** até seu próximo turno (não sofre dano de efeitos que permitam save de DEX para metade). Seu movimento não provoca **ataques de oportunidade** mesmo sem se mover primeiro.
+Bônus de CA aumenta para **+6**. Você ganha **evasão completa** até seu próximo turno (não sofre dano de efeitos que permitam save de DEX para metade, e sofre metade se falhar). Ataques de oportunidade contra você **falham automaticamente**.
 
 ---
 
@@ -70,7 +70,7 @@ Movimento aumenta para **12 metros**. Dano aumenta para **4d8 + mod**.  Você ga
 Movimento aumenta para **15 metros**. Dano aumenta para **5d8 + mod**. Todos os ataques têm **vantagem**. Críticos ocorrem em **19-20**. 
 
 **[FINAL - V10]:**  
-Movimento aumenta para **18 metros**.  Dano aumenta para **8d8 + mod**.  Você pode atacar **duas vezes** cada inimigo que passar.  Críticos ocorrem em **18-20** e causam **sangramento** (3d6 por turno por 3 turnos). Você fica **incorpóreo** durante o movimento (pode atravessar inimigos e objetos). Usos: **6x por descanso curto**. 
+Movimento aumenta para **18 metros**. Dano aumenta para **7d8 + mod**. Você pode atacar **cada inimigo até 2 vezes** que passar próximo. Críticos ocorrem em **18-20** e causam **sangramento** (3d6 por turno por 3 turnos). Você fica **incorpóreo** durante o movimento (pode atravessar inimigos). Usos: **6x por descanso curto**. 
 
 ---
 
@@ -91,7 +91,7 @@ Dano aumenta para **4d10 + mod**. O contra-ataque tem **vantagem**. Você ganha 
 Dano aumenta para **5d10 + mod**. Movimento aumenta para **4,5 metros**. O inimigo deve fazer save de DEX (CD 8 + Prof + mod) ou cai no chão. 
 
 **[FINAL - V10]:**  
-Dano aumenta para **8d10 + mod**.  Alcance aumenta para **6 metros**. Movimento aumenta para **6 metros**. O contra-ataque é **crítico automático**. Você pode contra-atacar **ilimitadas vezes por rodada** (mas apenas 1x por ataque que errar, limitado por suas reações). Usos: **ilimitado**.
+Dano aumenta para **8d10 + mod**. Alcance aumenta para **6 metros**. Movimento aumenta para **6 metros**. O contra-ataque tem **vantagem**. Você pode contra-atacar **até 5 vezes por rodada** (requer suas reações disponíveis, 1 por ataque que errar). Usos: **ilimitado**.
 
 ---
 
@@ -109,10 +109,10 @@ Alcance aumenta para **4,5 metros**. Dano aumenta para **4d8**. Movimento aument
 Alcance aumenta para **6 metros**. Dano aumenta para **5d8**. Inimigos que falharem no save ficam **cegos** por 1 turno (pela velocidade da dança).
 
 **[Evolução III - V7]:**  
-Dano aumenta para **6d8**. Movimento aumenta para **6 metros**. Você ganha **+4 CA** até o fim do seu turno. Você tem **vantagem** em ataques contra inimigos cegos.
+Dano aumenta para **6d8**. Movimento aumenta para **6 metros**. Você ganha **+4 CA** até o fim do seu turno. Inimigos que falharem ficam **cegos** por 1 turno (pela velocidade da dança).
 
 **[FINAL - V10]:**  
-Alcance aumenta para **9 metros**. Dano aumenta para **10d8**. Movimento aumenta para **9 metros**. Inimigos que falharem ficam **atordoados** por 1 turno.  Você se torna **incorpóreo** durante a pirueta (pode atravessar inimigos e objetos). Críticos automáticos contra inimigos atordoados.  Usos: **5x por descanso curto**. 
+Alcance aumenta para **9 metros**. Dano aumenta para **10d8**. Movimento aumenta para **9 metros**. Inimigos que falharem ficam **atordoados** por 1 turno. Você se torna **incorpóreo** durante a pirueta (pode atravessar inimigos). Você tem **vantagem** em ataques contra inimigos atordoados. Usos: **5x por descanso curto**. 
 
 ---
 
@@ -130,10 +130,10 @@ Número de lâminas:  **4**. Dano aumenta para **3d10** cada.  Alcance aumenta p
 Número de lâminas: **5**. Dano aumenta para **4d10** cada. As lâminas também concedem **+1 CA por lâmina ativa** (máximo +5 CA).
 
 **[Evolução III - V7]:**  
-Número de lâminas: **6**.  Dano aumenta para **5d10** cada. Duração aumenta para **10 minutos**. As lâminas podem **interceptar ataques** contra você (1 lâmina se destrói para anular completamente um ataque).
+Número de lâminas: **6**. Dano aumenta para **5d10** cada. Duração aumenta para **10 minutos**. As lâminas podem **interceptar ataques** contra você (1 lâmina se destrói para anular completamente um ataque).
 
 **[FINAL - V10]:**  
-Número de lâminas: **10**. Dano aumenta para **8d10** cada. Alcance aumenta para **15 metros**.  Duração:  **1 hora**.  Cada lâmina concede **+2 CA** (máximo +20 CA). As lâminas **se regeneram** (1 por rodada). Você pode comandar todas as lâminas como **ação livre**. Cada lâmina ataca **duas vezes** por turno.  Lâminas interceptam ataques **automaticamente** (sem destruir a lâmina, apenas anula o ataque). Usos: **2x por descanso longo**. 
+Número de lâminas: **8**. Dano aumenta para **8d10** cada. Alcance aumenta para **12 metros**. Duração: **1 hora**. Cada lâmina concede **+1 CA** (máximo +8 CA). As lâminas **se regeneram** (1 por rodada). Você pode comandar todas as lâminas como **ação livre**. Cada lâmina ataca **duas vezes** por turno. Lâminas interceptam ataques **sem se destruir** (reduzem dano em 2d10 por lâmina usada). Usos: **2x por descanso longo**. 
 
 ---
 
@@ -151,10 +151,10 @@ Dano cumulativo aumenta para **+1d8** (máximo +4d8).
 Dano cumulativo aumenta para **+2d6** (máximo +6d6). Você ganha **+1 metro de movimento** por ataque bem-sucedido (cumulativo, reseta no próximo turno).
 
 **[Evolução III - V7]:**  
-Dano cumulativo aumenta para **+2d8** (máximo +8d8). Movimento adicional:  **+1,5 metros** por ataque.  Você ganha **vantagem** no terceiro ataque e em todos os subsequentes.
+Dano cumulativo aumenta para **+2d8** (máximo +8d8). Movimento adicional: **+1,5 metros** por ataque. Você ganha **vantagem** no terceiro ataque e em todos os subsequentes no turno.
 
 **[FINAL - V10]:**  
-Dano cumulativo aumenta para **+3d8** (sem limite máximo). Movimento adicional: **+3 metros** por ataque.  Críticos ocorrem em **18-20** a partir do terceiro ataque.  Você ganha uma **ação bônus adicional** se fizer **5 ou mais ataques** no turno.  O acúmulo de dano **não reseta** enquanto você continuar atacando (mesmo em turnos diferentes), mas reseta se você não atacar por 1 turno completo.
+Dano cumulativo aumenta para **+3d8** por acerto (máximo +18d8 após 6 ataques). Movimento adicional: **+2 metros** por ataque. Críticos ocorrem em **19-20** a partir do terceiro ataque. Você ganha uma **ação bônus adicional** se fizer **5 ou mais ataques** no turno. O acúmulo de dano persiste **por 2 turnos** sem atacar (reseta se ficar 2 turnos completos sem atacar).
 
 ---
 
@@ -173,15 +173,15 @@ Você entra em um transe de combate transcendental por **1 minuto**:
 Bônus de movimento:  **+15 metros**. Bônus de CA: **+7**. Você ganha **resistência a todos os danos**. 
 
 **[Evolução II - V4]:**  
-Bônus de movimento: **+20 metros**. Bônus de CA: **+10**.  Todos os seus ataques são **críticos automáticos**. Você se torna **incorpóreo** (pode atravessar qualquer coisa).
+Bônus de movimento: **+25 metros**. Bônus de CA: **+8**. Todos os seus ataques têm **vantagem**. Você pode fazer **até 6 ataques por turno** (máximo do sistema). Você se torna **incorpóreo** (pode atravessar qualquer coisa).
 
 **[Evolução III - V7]:**  
 Bônus de movimento: **+30 metros**. Você é **imune a todos os danos** exceto psíquico. Críticos causam **dano triplicado** (em vez de duplicado). Duração: **10 minutos**.
 
 **[FINAL - V10]:**  
-Bônus de movimento: **ilimitado** (pode se mover infinitamente). Bônus de CA: **+15**. Você é **imune a todos os danos e todas as condições**. Todos os ataques são **críticos automáticos** com **dano máximo triplicado**. Você pode fazer **ações ilimitadas** por turno (ações, ações bônus, reações - sem limite). Cada inimigo morto: 
+Bônus de movimento: **+30 metros**. Bônus de CA: **+10**. Você ganha **resistência a todos os danos**. Todos os seus ataques são **críticos automáticos**. Você pode fazer **até 6 ataques por turno** (máximo do sistema) + **2 ações bônus** (total 2 ações + 2 bônus). Você é **incorpóreo** (atravessa tudo). Cada inimigo morto:
 - **Cura você completamente**
-- **Adiciona +1 minuto** à duração
-- **Restaura 1 uso** de qualquer habilidade sua
+- **Adiciona +30 segundos** à duração
+- **Restaura 1 uso** de uma habilidade sua (escolha)
 
-Você pode **teletransportar** até **30 metros** como ação livre (quantas vezes quiser). Ao final da dança, você **não** fica exausto e **recupera todas as suas habilidades** (todos os usos voltam). Você ganha **vantagem em todas as rolagens** por 1 hora após o término. 
+Você pode **teleportar até 15 metros** como ação livre (até 5x por turno). Ao final da dança, você recupera **metade dos usos** de suas habilidades. Você tem **vantagem em todas as rolagens** por 10 minutos após o término. Duração inicial: **3 minutos**. 

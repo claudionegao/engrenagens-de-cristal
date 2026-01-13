@@ -46,10 +46,10 @@ Dano adicional aumenta para **+1d8**. Você pode mudar o tipo de dano como **aç
 Dano adicional aumenta para **+2d6**. Seus ataques contam como **mágicos** para ignorar resistência. 
 
 **[Evolução III - V7]:**  
-Dano adicional aumenta para **+2d8**. Você pode aplicar **dois tipos de dano elemental** simultaneamente.
+Dano adicional aumenta para **+2d8**. Você pode aplicar **dois tipos de dano elemental** simultaneamente (escolha 2).
 
 **[FINAL - V10]:**  
-Dano adicional aumenta para **+3d8**. Você pode usar **todos os tipos** simultaneamente (alvo sofre 4 tipos de dano). Ignora **imunidade** (trata como resistência).
+Dano adicional aumenta para **+3d8**. Você pode usar **três tipos** simultaneamente (escolha 3 entre fogo, gelo, elétrico, energia). Seus ataques **tratam imunidade como resistência** (causam metade do dano mesmo em imunes).
 
 ---
 
@@ -70,7 +70,7 @@ Você **automaticamente** cancela magias de **3º círculo ou inferior**. Para m
 Você automaticamente cancela magias de **5º círculo ou inferior**. Magias canceladas são **absorvidas**: você recupera **1d8 PV** por círculo da magia. 
 
 **[FINAL - V10]:**  
-Você automaticamente cancela magias de **7º círculo ou inferior**. Magias de 8º e 9º círculo podem ser testadas com **+10 de bônus**. Magias absorvidas permitem você **replicá-las** como ação bônus no próximo turno (sem custo de espaço).
+Você automaticamente cancela magias de **6º círculo ou inferior**. Magias de 7º a 9º círculo podem ser testadas com **+8 de bônus**. Magias absorvidas: recupera **1d8 PV por círculo** e pode **replicá-la** como ação bônus no próximo turno (1x por magia absorvida).
 
 ---
 
@@ -88,10 +88,10 @@ Distância aumenta para **12 metros**. Dano adicional aumenta para **+4d8**. O a
 Distância aumenta para **15 metros**. Dano adicional aumenta para **+5d8**.  Você pode atacar **dois alvos** diferentes durante o teleporte. 
 
 **[Evolução III - V7]:**  
-Distância aumenta para **18 metros**. Dano adicional aumenta para **+6d8**. Você pode atacar **três alvos**. Cada acerto cria uma **explosão de 3m** (2d8 de dano aos inimigos próximos).
+Distância aumenta para **18 metros**. Dano adicional aumenta para **+6d8**. Você pode atacar **dois alvos** diferentes durante o teleporte. Cada acerto cria uma **explosão de 3m** (2d8 de dano aos inimigos próximos).
 
 **[FINAL - V10]:**  
-Distância aumenta para **24 metros**. Dano adicional aumenta para **+8d8**. Você pode atacar **todos os inimigos** ao longo do caminho (máximo 6). Acerto crítico automático contra todos. Usos: **3x por descanso curto**. 
+Distância aumenta para **21 metros**. Dano adicional aumenta para **+8d10**. Você pode atacar **até 3 alvos** diferentes durante o teleporte. Cada acerto cria **explosão de 4,5m** (3d8 de dano). **Primeiro alvo** atingido sofre crítico automático.
 
 ---
 
@@ -109,10 +109,10 @@ Absorve até **5d10 de dano**. Alcance aumenta para **9 metros**. A barreira dur
 Absorve até **7d10 de dano**. A barreira **reflete metade do dano** absorvido de volta ao agressor.
 
 **[Evolução III - V7]:**  
-Absorve até **10d10 de dano**. Alcance aumenta para **12 metros**. A barreira protege **todos os aliados** no alcance. Reflete **todo o dano** absorvido.
+Absorve até **10d10 de dano**. Alcance aumenta para **12 metros**. A barreira protege **todos os aliados** no alcance. Reflete **todo o dano** absorvido no agressor.
 
 **[FINAL - V10]:**  
-Absorve até **20d10 de dano**. Alcance aumenta para **18 metros**.  A barreira dura **1 minuto** ou até ser destruída. Reflete dano **dobrado**. Aliados dentro ganham **resistência a magia**. Usos: **5x por descanso longo**. 
+Absorve até **18d10 de dano**. Alcance aumenta para **15 metros**. A barreira dura **1 minuto** ou até ser destruída. Reflete dano **dobrado** no agressor. Aliados dentro ganham **resistência a magia** (vantagem em saves).
 
 ---
 
@@ -130,10 +130,10 @@ Alcance aumenta para **9 metros**. Dano aumenta para **7d8**. Você pode **escol
 Alcance aumenta para **12 metros**. Dano aumenta para **9d8**. Criaturas que falharem no teste ficam **presas** por lâminas espectrais (impedido por 1 minuto).
 
 **[Evolução III - V7]:**  
-Alcance aumenta para **15 metros**. Dano aumenta para **12d8**. As lâminas permanecem por **1 minuto**, atacando inimigos que entrarem na área (4d8 de dano, sem teste).
+Alcance aumenta para **15 metros**. Dano aumenta para **10d8**. As lâminas permanecem por **1 minuto**, atacando inimigos que entrarem na área (3d8 de dano, sem teste).
 
 **[FINAL - V10]:**  
-Alcance aumenta para **24 metros**.  Dano aumenta para **20d8**. As lâminas duram **10 minutos** e atacam **automaticamente** qualquer inimigo que entre (8d8 de dano, teste de DES ou fica impedido). Você controla as lâminas telepaticamente. Usos: **2x por descanso longo**.
+Alcance aumenta para **21 metros**. Dano aumenta para **18d8**. As lâminas duram **5 minutos** e atacam **automaticamente** qualquer inimigo que entre (6d8 de dano, save de DES DC 18 ou fica impedido por 1 turno). Você controla as lâminas telepaticamente.
 
 ---
 
@@ -151,10 +151,10 @@ CA aumenta para **+3**.  Você ganha **resistência a dano elemental** (fogo, ge
 CA aumenta para **+4**. Você se torna **imune a magias de 1º círculo**. Magias de 2º e 3º círculo têm **desvantagem** contra você.
 
 **[Evolução III - V7]:**  
-CA aumenta para **+5**. Você é **imune a magias de 3º círculo ou inferior**. Quando uma magia maior falha contra você, recupera **1 espaço de magia** (se tiver).
+CA aumenta para **+5**. Você é **imune a magias de 2º círculo ou inferior**. Magias de 3º e 4º círculo têm **desvantagem** contra você, recupera **1 espaço de magia** (se tiver)..
 
 **[FINAL - V10]:**  
-CA aumenta para **+6**.  Você é **imune a magias de 5º círculo ou inferior**. Magias de 6º círculo ou maior têm **desvantagem**. Você pode **dissipar magias** em você como ação bônus (sem teste, automático para magias de 7º círculo ou inferior).
+CA aumenta para **+5**. Você é **imune a magias de 4º círculo ou inferior**. Magias de 5º círculo ou maior têm **desvantagem**. Você pode **dissipar magias** em você como ação bônus (automático para magias de 6º círculo ou inferior, teste DC 15 + círculo para magias maiores).
 
 ---
 
@@ -172,7 +172,7 @@ Distância aumenta para **45 metros**. Dano aumenta para **18d10**. O portal per
 Distância aumenta para **60 metros**.  Dano aumenta para **22d10**. O corte **ignora todas resistências e imunidades**. Criaturas mortas são **desintegradas**. 
 
 **[Evolução III - V7]:**  
-Distância aumenta para **90 metros**. Dano aumenta para **30d10**. O corte atravessa **objetos, paredes e barreiras** (incluindo campo antimagia). Criaturas no caminho devem fazer teste de resistência de CON (CD 22) ou são **banidas** para outro plano.
+Distância aumenta para **75 metros**. Dano aumenta para **25d10**. O corte atravessa **objetos, paredes e barreiras** não-mágicas. Criaturas no caminho devem fazer save de CON (CD 20) ou ficam **atordoadas** por 1 turno.
 
 **[FINAL - V10]:**  
-Distância aumenta para **150 metros**. Dano aumenta para **50d10**. Você pode fazer **3 cortes dimensionais** em direções diferentes.  Cada corte cria uma **fenda planar permanente** que causa 10d10 de dano a qualquer criatura que passe por ela. Criaturas mortas têm suas **almas aprisionadas** (não podem ser ressuscitadas sem Desejo).
+Distância aumenta para **90 metros**. Dano aumenta para **35d10**. Você pode fazer **2 cortes dimensionais** em direções diferentes. Cada corte cria uma **fenda planar** que dura 1 minuto (causa 5d10 de dano a qualquer criatura que passe). O corte **ignora todas resistências** (trata como vulnerabilidade). Criaturas mortas pelo corte são **desintegradas** (ressurreição requer magia de 7º círculo+).
