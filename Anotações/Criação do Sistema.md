@@ -151,10 +151,13 @@ Quando um jogador chega a 0 HP e falha em seus testes de morte:
 
 **Nota:** Morte em A-world NÃO é morte real - os jogadores não podem morrer permanentemente, mas há penalidades significativas.
 
-### Sistema de Cristais
-*(A EXPANDIR)*
-- Cristais como recurso/moeda?
-- Cristais para melhorias de equipamento?
+### Sistema Econômico
+O sistema de moeda segue o **padrão de D&D 5E**:
+- **PP** (Peças de Platina)
+- **PO** (Peças de Ouro)
+- **PE** (Peças de Electrum)
+- **PC** (Peças de Prata)
+- **PL** (Peças de Cobre)
 
 ### Outras Regras
 *(A EXPANDIR)*
