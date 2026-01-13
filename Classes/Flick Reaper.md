@@ -1,5 +1,8 @@
 # Flick Reaper
 
+**Gema Original:** Obsidiana (Obsidian)
+**Descrição:** Gemas de Obsidiana são sombrias, misteriosas e especialistas em ataques de alcance e controle de área. São parceiras que favorecem táticas de emboscada e domínio do campo de batalha.
+
 **Tipo de Arma:** Foice dupla giratória
 
 ## Descrição

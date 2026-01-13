@@ -1,5 +1,35 @@
 # Twin Blade
 
+**Gema Original:** Peridoto (Jade)
+**Descrição:** Gemas de Peridoto são ágeis, rápidas e possuem uma afinidade natural com movimentos velozes e combos. São parceiras ideais para quem valoriza mobilidade e ataques múltiplos.
+
+## Habilidades Humanoides – Peridot
+
+- **[V1] Olhos de Cristal (Passiva, Nível 1):**
+	- Vantagem em Percepção e Investigação.
+	- Detecta criaturas invisíveis a até 9m.
+	- Identifica armadilhas mágicas automaticamente.
+	- O portador pode pedir ajuda em testes de Percepção.
+
+- **[V2] Presença Ilusória (Ação, Nível 2):**
+	- Cria cópias ilusórias de si ou do portador para distração ou reconhecimento.
+	- Duração: até 10 minutos. Alcance: até 60m para reconhecimento.
+	- Criaturas podem fazer teste de INT para perceber a ilusão.
+
+- **[V4] Chamado Cristalino (Ação Bônus, Nível 4):**
+	- O portador pode chamar Peridot de volta instantaneamente, de qualquer distância.
+	- Se inconsciente, Peridot retorna como arma.
+	- Não pode voltar à forma humanoide até o próximo descanso curto.
+
+- **[V7] Troca Ágil (Ação Bônus, Nível 7):**
+	- Peridot e portador (ou aliado) trocam de posição instantaneamente, dentro da linha de visão.
+	- 5 usos por descanso curto. Não provoca ataque de oportunidade.
+
+- **[V10] Legião de Cristal (Ação, Nível 10, Ultimate):**
+	- Cria 3 cópias reais de si mesma por 1 minuto.
+	- Cada cópia tem metade do HP atual, age junto com Peridot e pode atacar normalmente.
+	- Não pode se transformar em arma enquanto ativa.
+
 **Tipo de Arma:** Espadas duplas leves e ágeis
 
 ## Descrição

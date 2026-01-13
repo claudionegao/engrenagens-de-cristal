@@ -1,5 +1,8 @@
 # Edge Punisher
 
+**Gema Original:** Ametista (Violet)
+**Descrição:** Gemas de Ametista são conhecidas por sua força, resistência e conexão com o poder bruto. São parceiras leais, focadas em proteger e esmagar obstáculos ao lado de seus portadores.
+
 **Tipo de Arma:** Espadão gigante de duas mãos
 
 ## Descrição

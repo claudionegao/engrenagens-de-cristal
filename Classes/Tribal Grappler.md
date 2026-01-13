@@ -1,5 +1,8 @@
 # Tribal Grappler
 
+**Gema Original:** Rubi (Ruby)
+**Descrição:** Gemas de Rubi são intensas, apaixonadas e possuem energia explosiva. São parceiras perfeitas para combate corpo a corpo, focadas em força e agressividade.
+
 **Tipo de Arma:** Gauntlets/Garras
 
 ## Descrição

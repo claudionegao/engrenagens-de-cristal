@@ -1,5 +1,8 @@
 # Macabre Dancer
 
+**Gema Original:** Safira (Sapphire)
+**Descrição:** Gemas de Safira são graciosas, ágeis e possuem uma afinidade natural com movimentos acrobáticos e evasivos. São parceiras perfeitas para estilos de combate baseados em dança e esquiva.
+
 **Tipo de Arma:** Lâminas duplas de dança
 
 ## Descrição

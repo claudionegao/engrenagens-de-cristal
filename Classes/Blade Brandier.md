@@ -1,5 +1,8 @@
 # Blade Brandier
 
+**Gema Original:** Pedra da Lua (Moonstone)
+**Descrição:** Gemas de Pedra da Lua são místicas e versáteis, combinando poder arcano com destreza marcial. São parceiras que favorecem a criatividade e a adaptação em combate.
+
 **Tipo de Arma:** Espada mágica elegante de uma mão
 
 ## Descrição

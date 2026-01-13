@@ -1,5 +1,8 @@
 # Harvest Cleric
 
+**Gema Original:** Pérola (Pearl)
+**Descrição:** Gemas de Pérola são curativas, empáticas e protetoras. Têm grande afinidade com energias restauradoras e são parceiras dedicadas ao suporte e à preservação da vida.
+
 **Tipo de Arma:** Cajado restaurador
 
 ## Descrição

@@ -1,5 +1,8 @@
 # Steam Gunner
 
+**Gema Original:** Topázio Imperial (Topaz)
+**Descrição:** Gemas de Topázio Imperial são precisas, calculistas e dotadas de grande poder de fogo à distância. São parceiras ideais para quem prefere atacar de longe com eficiência e impacto.
+
 **Tipo de Arma:** Canhão/Arma de fogo cristalina
 
 ## Descrição
