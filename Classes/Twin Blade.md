@@ -1,6 +1,7 @@
 # Twin Blade
 
 **Gema Original:** Peridoto (Jade)
+**Perícias:** Acrobacia(Des), Percepção(Sab), Furtividade(Des), Prestigitação(Des)
 **Descrição:** Gemas de Peridoto são ágeis, rápidas e possuem uma afinidade natural com movimentos velozes e combos. São parceiras ideais para quem valoriza mobilidade e ataques múltiplos.
 
 ## Habilidades Humanoides – Peridot
