@@ -3,6 +3,30 @@
 **Gema Original:** Pérola (Pearl)
 **Descrição:** Gemas de Pérola são curativas, empáticas e protetoras. Têm grande afinidade com energias restauradoras e são parceiras dedicadas ao suporte e à preservação da vida.
 
+## Habilidades Humanoides – Pearl
+
+- **[V1] Aura Calmante (Passiva, Nível 1):**
+  - Pearl emana uma aura de tranquilidade. Aliados em até 6m têm vantagem em testes de resistência contra medo e efeitos de charme.
+  - Facilita negociações e acalma NPCs hostis.
+
+- **[V2] Diagnóstico Perfeito (Ação, Nível 2):**
+  - Pearl pode identificar doenças, venenos ou maldições em uma criatura com um toque.
+  - 1x por descanso curto, pode neutralizar um veneno ou doença simples.
+
+- **[V4] Chamado Cristalino (Ação Bônus, Nível 4):**
+  - O portador pode chamar Pearl de volta instantaneamente, de qualquer distância.
+  - Se inconsciente, Pearl retorna como arma.
+  - Não pode voltar à forma humanoide até o próximo descanso curto.
+
+- **[V7] Escudo de Empatia (Reação, Nível 7):**
+  - 1x por rodada, Pearl pode absorver metade + (5% x modificador de Constituição da Gema) do dano recebido por um aliado adjacente.
+  - Pearl sente as emoções e dores do grupo, podendo alertar sobre ameaças ocultas.
+
+- **[V10] Fonte de Vida (Ultimate, Nível 10):**
+  - Pearl se torna uma fonte viva de energia restauradora por 1 minuto.
+  - Todos aliados em até 9m recuperam 2d8 + modificador de Sabedoria da Gema de PV no início de cada turno.
+  - Remove condições negativas (envenenado, amedrontado, paralisado) ao entrar na aura.
+  
 **Tipo de Arma:** Cajado restaurador
 
 ## Descrição
@@ -31,6 +55,9 @@ sacrificando poder ofensivo por capacidade de manter aliados vivos.
 ---
 
 ## 🎯 PROGRESSÃO DE HABILIDADES
+
+---
+
 
 ---
 
@@ -181,3 +208,11 @@ Você pode ressuscitar **até 3 alvos** simultaneamente. Eles retornam no **auge
 
 **[FINAL - V10]:**  
 Você pode ressuscitar **até 10 alvos** simultaneamente. Eles retornam com **bônus permanente**: +1 em um atributo à escolha e +10 PV máximo. Se morreram **heroicamente**, voltam com **1 nível adicional**. Não requer corpo (funciona com apenas o nome). Você pode usar essa habilidade para **ressuscitar a si mesmo** (se morrer, revive automaticamente após 1 hora com metade do PV).
+
+## Portador Sem a Arma (Gema em Forma Humanoide)
+
+- O portador perde todos os bônus, habilidades e poderes concedidos pela arma/gema.
+- Só pode usar ataques desarmados ou armas secundárias (se possuir).
+- Não pode usar habilidades de classe que dependam da arma/gema.
+- CA, proficiências e atributos permanecem os mesmos, mas sem bônus mágicos da arma.
+- O portador pode agir normalmente, mas fica limitado a recursos básicos até a Gema retornar à forma de arma.

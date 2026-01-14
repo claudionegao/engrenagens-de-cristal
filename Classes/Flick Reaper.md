@@ -3,6 +3,32 @@
 **Gema Original:** Obsidiana (Obsidian)
 **Descrição:** Gemas de Obsidiana são sombrias, misteriosas e especialistas em ataques de alcance e controle de área. São parceiras que favorecem táticas de emboscada e domínio do campo de batalha.
 
+## Habilidades Humanoides – Obsidiana
+
+- **[V1] Sombra Silenciosa (Passiva, Nível 1):**
+  - Obsidiana pode se mover sem ser percebida em ambientes escuros.
+  - Vantagem em testes de Furtividade e Percepção em sombras.
+  - Pode usar Destreza para Furtividade, mesmo usando armaduras leves.
+
+- **[V2] Olhar da Morte (Ação, Nível 2):**
+  - 1x por descanso curto, pode forçar uma criatura a fazer um teste de Sabedoria (CD = 8 + Proficiência + modificador de Carisma da Gema) ou ficar amedrontada por 1 minuto.
+  - Em combate, criaturas amedrontadas por Obsidiana sofrem desvantagem em ataques contra ela.
+
+- **[V4] Chamado Cristalino (Ação Bônus, Nível 4):**
+  - O portador pode chamar Obsidiana de volta instantaneamente, de qualquer distância.
+  - Se inconsciente, Obsidiana retorna como arma.
+  - Não pode voltar à forma humanoide até o próximo descanso curto.
+
+- **[V7] Névoa Mortal (Ação, Nível 7):**
+  - 1x por descanso longo, Obsidiana pode criar uma névoa escura de 6m de raio por 1 minuto.
+  - Criaturas hostis na névoa têm desvantagem em ataques e testes de Percepção.
+  - Obsidiana e aliados têm vantagem em Furtividade e podem atravessar a névoa sem penalidade.
+
+- **[V10] Avatar do Medo (Ultimate, Nível 10):**
+  - Por 1 minuto, Obsidiana se torna uma presença aterrorizante.
+  - Todos inimigos em até 9m devem fazer teste de Sabedoria (CD = 8 + Proficiência + modificador de Carisma da Gema) a cada turno ou ficam amedrontados.
+  - Inimigos amedrontados sofrem 2d6 de dano psíquico por turno.
+
 **Tipo de Arma:** Foice dupla giratória
 
 ## Descrição
@@ -184,3 +210,11 @@ PV temporários: **+200**. Alcance dos ataques: **15 metros**. Você é **imune 
 
 **[FINAL - V10]:**  
 PV temporários: **+300**. Alcance dos ataques: **24 metros**. Você é **imune a todos os danos** e **todas as condições**. Todos os seus ataques matam **instantaneamente** criaturas com menos de **100 PV**. Você pode fazer **ataques ilimitados** por turno. Criaturas que morrem por suas mãos têm suas **almas destruídas** (não podem ser ressuscitadas por nenhum meio exceto Desejo). Duração: **10 minutos**. Quando a transformação termina, você cura **todo o seu PV**.
+
+## Portador Sem a Arma (Gema em Forma Humanoide)
+
+- O portador perde todos os bônus, habilidades e poderes concedidos pela arma/gema.
+- Só pode usar ataques desarmados ou armas secundárias (se possuir).
+- Não pode usar habilidades de classe que dependam da arma/gema.
+- CA, proficiências e atributos permanecem os mesmos, mas sem bônus mágicos da arma.
+- O portador pode agir normalmente, mas fica limitado a recursos básicos até a Gema retornar à forma de arma.
