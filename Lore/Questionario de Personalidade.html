@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Questionário de Personalidade - Engrenagens de Cristal</title>
+  <style>
+    body {
+      background: linear-gradient(120deg, #e0e7ef 0%, #c9e4f6 100%);
+      font-family: 'Segoe UI', Arial, sans-serif;
+      color: #222;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 700px;
+      margin: 40px auto;
+      background: #fff;
+      border-radius: 16px;
+      box-shadow: 0 4px 24px #b3c6d6;
+      padding: 32px 24px 24px 24px;
+    }
+    h1 {
+      text-align: center;
+      color: #3a5ca8;
+      margin-bottom: 8px;
+    }
+    h2 {
+      text-align: center;
+      color: #5a7fc2;
+      margin-top: 0;
+    }
+    .question {
+      margin: 24px 0 12px 0;
+      font-weight: bold;
+      color: #3a5ca8;
+    }
+    .options label {
+      display: block;
+      margin-bottom: 8px;
+      padding: 8px 12px;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+    .options input[type="radio"]:checked + span {
+      background: #c9e4f6;
+      font-weight: bold;
+    }
+    .options label:hover {
+      background: #eaf3fa;
+    }
+    button {
+      display: block;
+      margin: 32px auto 0 auto;
+      background: #3a5ca8;
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      padding: 12px 32px;
+      font-size: 1.1em;
+      font-weight: bold;
+      cursor: pointer;
+      box-shadow: 0 2px 8px #b3c6d6;
+      transition: background 0.2s;
+    }
+    button:hover {
+      background: #274a8a;
+    }
+    .result {
+      margin-top: 32px;
+      padding: 24px;
+      background: #f0f7ff;
+      border-radius: 12px;
+      text-align: center;
+      font-size: 1.2em;
+      color: #274a8a;
+      box-shadow: 0 2px 8px #b3c6d6;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Qual é sua Essência Cristalina?</h1>
+    <h2>Questionário de Personalidade</h2>
+    <form id="quizForm">
+      <!-- Perguntas principais -->
+      <div class="question">1. Em uma situação de perigo, você:</div>
+      <div class="options">
+        <label><input type="radio" name="q1" value="a" required><span>Enfrenta de frente, protegendo os outros.</span></label>
+        <label><input type="radio" name="q1" value="b"><span>Usa sua inteligência para bolar um plano.</span></label>
+        <label><input type="radio" name="q1" value="c"><span>Age rápido, atacando antes que o inimigo reaja.</span></label>
+        <label><input type="radio" name="q1" value="d"><span>Ajuda os aliados, curando e apoiando.</span></label>
+        <label><input type="radio" name="q1" value="e"><span>Usa o ambiente a seu favor, surpreendendo o inimigo.</span></label>
+        <label><input type="radio" name="q1" value="f"><span>Prefere atacar à distância, com precisão.</span></label>
+        <label><input type="radio" name="q1" value="g"><span>Dança entre os inimigos, desviando e confundindo.</span></label>
+        <label><input type="radio" name="q1" value="h"><span>Usa força bruta e não recua diante de desafios.</span></label>
+      </div>
+      <div class="question">2. O que mais valoriza em um parceiro?</div>
+      <div class="options">
+        <label><input type="radio" name="q2" value="a" required><span>Lealdade</span></label>
+        <label><input type="radio" name="q2" value="b"><span>Criatividade</span></label>
+        <label><input type="radio" name="q2" value="c"><span>Agilidade</span></label>
+        <label><input type="radio" name="q2" value="d"><span>Empatia</span></label>
+        <label><input type="radio" name="q2" value="e"><span>Astúcia</span></label>
+        <label><input type="radio" name="q2" value="f"><span>Precisão</span></label>
+        <label><input type="radio" name="q2" value="g"><span>Liberdade</span></label>
+        <label><input type="radio" name="q2" value="h"><span>Coragem</span></label>
+      </div>
+      <div class="question">3. Qual dessas frases mais te representa?</div>
+      <div class="options">
+        <label><input type="radio" name="q3" value="a" required><span>“Ninguém fica para trás.”</span></label>
+        <label><input type="radio" name="q3" value="b"><span>“Sempre há uma solução mágica.”</span></label>
+        <label><input type="radio" name="q3" value="c"><span>“A velocidade é minha maior arma.”</span></label>
+        <label><input type="radio" name="q3" value="d"><span>“Juntos, somos mais fortes.”</span></label>
+        <label><input type="radio" name="q3" value="e"><span>“O inesperado é minha especialidade.”</span></label>
+        <label><input type="radio" name="q3" value="f"><span>“Um tiro, um alvo.”</span></label>
+        <label><input type="radio" name="q3" value="g"><span>“A vida é uma dança.”</span></label>
+        <label><input type="radio" name="q3" value="h"><span>“Nada me detém.”</span></label>
+      </div>
+      <div class="question">4. Em um grupo, seu papel natural é:</div>
+      <div class="options">
+        <label><input type="radio" name="q4" value="a" required><span>Protetor</span></label>
+        <label><input type="radio" name="q4" value="b"><span>Estrategista</span></label>
+        <label><input type="radio" name="q4" value="c"><span>Iniciador</span></label>
+        <label><input type="radio" name="q4" value="d"><span>Suporte</span></label>
+        <label><input type="radio" name="q4" value="e"><span>Controlador</span></label>
+        <label><input type="radio" name="q4" value="f"><span>Atirador</span></label>
+        <label><input type="radio" name="q4" value="g"><span>Evasivo</span></label>
+        <label><input type="radio" name="q4" value="h"><span>Lutador</span></label>
+      </div>
+      <div class="question">5. Como você lida com conflitos?</div>
+      <div class="options">
+        <label><input type="radio" name="q5" value="a" required><span>Com firmeza e justiça</span></label>
+        <label><input type="radio" name="q5" value="b"><span>Com diplomacia e lógica</span></label>
+        <label><input type="radio" name="q5" value="c"><span>Com ação rápida</span></label>
+        <label><input type="radio" name="q5" value="d"><span>Com compreensão</span></label>
+        <label><input type="radio" name="q5" value="e"><span>Com manipulação sutil</span></label>
+        <label><input type="radio" name="q5" value="f"><span>Mantendo distância</span></label>
+        <label><input type="radio" name="q5" value="g"><span>Evitando confrontos diretos</span></label>
+        <label><input type="radio" name="q5" value="h"><span>Enfrentando de frente</span></label>
+      </div>
+      <!-- Perguntas de desempate -->
+      <div class="question">6. Se pudesse escolher um poder especial, seria:</div>
+      <div class="options">
+        <label><input type="radio" name="q6" value="a" required><span>Força sobre-humana</span></label>
+        <label><input type="radio" name="q6" value="b"><span>Magia arcana</span></label>
+        <label><input type="radio" name="q6" value="c"><span>Velocidade extrema</span></label>
+        <label><input type="radio" name="q6" value="d"><span>Cura milagrosa</span></label>
+        <label><input type="radio" name="q6" value="e"><span>Controle das sombras</span></label>
+        <label><input type="radio" name="q6" value="f"><span>Tiro infalível</span></label>
+        <label><input type="radio" name="q6" value="g"><span>Intangibilidade</span></label>
+        <label><input type="radio" name="q6" value="h"><span>Resistência absoluta</span></label>
+      </div>
+      <div class="question">7. Qual cenário te atrai mais?</div>
+      <div class="options">
+        <label><input type="radio" name="q7" value="a" required><span>Arena de batalha</span></label>
+        <label><input type="radio" name="q7" value="b"><span>Biblioteca mágica</span></label>
+        <label><input type="radio" name="q7" value="c"><span>Ruas movimentadas</span></label>
+        <label><input type="radio" name="q7" value="d"><span>Santuário sagrado</span></label>
+        <label><input type="radio" name="q7" value="e"><span>Floresta sombria</span></label>
+        <label><input type="radio" name="q7" value="f"><span>Torre de vigia</span></label>
+        <label><input type="radio" name="q7" value="g"><span>Palco iluminado</span></label>
+        <label><input type="radio" name="q7" value="h"><span>Montanha rochosa</span></label>
+      </div>
+      <div class="question">8. Se tivesse que escolher um lema, seria:</div>
+      <div class="options">
+        <label><input type="radio" name="q8" value="a" required><span>“Proteger é meu dever.”</span></label>
+        <label><input type="radio" name="q8" value="b"><span>“Conhecimento é poder.”</span></label>
+        <label><input type="radio" name="q8" value="c"><span>“Sempre em movimento.”</span></label>
+        <label><input type="radio" name="q8" value="d"><span>“Cuidar é vencer.”</span></label>
+        <label><input type="radio" name="q8" value="e"><span>“O medo é minha arma.”</span></label>
+        <label><input type="radio" name="q8" value="f"><span>“Distância é vantagem.”</span></label>
+        <label><input type="radio" name="q8" value="g"><span>“A vida é arte.”</span></label>
+        <label><input type="radio" name="q8" value="h"><span>“Nada me derruba.”</span></label>
+      </div>
+      <button type="submit">Descobrir minha Gema!</button>
+    </form>
+    <div class="result" id="result" style="display:none;"></div>
+  </div>
+  <script>
+    const gemas = {
+      a: {nome: 'Ametista', desc: 'Gema leal, protetora, forte.'},
+      b: {nome: 'Pedra da Lua', desc: 'Gema criativa, curiosa, mágica.'},
+      c: {nome: 'Peridoto', desc: 'Gema ágil, brincalhona, inquieta.'},
+      d: {nome: 'Pérola', desc: 'Gema empática, cuidadosa, gentil.'},
+      e: {nome: 'Obsidiana', desc: 'Gema misteriosa, astuta, sombria.'},
+      f: {nome: 'Topázio Imperial', desc: 'Gema calculista, precisa, séria.'},
+      g: {nome: 'Safira', desc: 'Gema livre, artística, excêntrica.'},
+      h: {nome: 'Rubi', desc: 'Gema corajosa, impulsiva, intensa.'}
+    };
+    document.getElementById('quizForm').onsubmit = function(e) {
+      e.preventDefault();
+      const form = e.target;
+      const counts = {a:0,b:0,c:0,d:0,e:0,f:0,g:0,h:0};
+      for(let i=1;i<=5;i++) {
+        const val = form['q'+i].value;
+        counts[val]++;
+      }
+      // Verifica maioria
+      let max = 0, maxKey = 'a';
+      for(const k in counts) {
+        if(counts[k]>max) { max=counts[k]; maxKey=k; }
+      }
+      // Se houver empate, usa perguntas de desempate
+      const empate = Object.values(counts).filter(v=>v===max).length>1;
+      if(empate) {
+        for(let i=6;i<=8;i++) {
+          const val = form['q'+i].value;
+          counts[val]++;
+        }
+        // Recalcula maioria
+        max = 0; maxKey = 'a';
+        for(const k in counts) {
+          if(counts[k]>max) { max=counts[k]; maxKey=k; }
+        }
+      }
+      const g = gemas[maxKey];
+      document.getElementById('result').style.display = 'block';
+      document.getElementById('result').innerHTML = `<strong>Sua Gema é: ${g.nome}</strong><br><br>${g.desc}`;
+      window.scrollTo({top:0,behavior:'smooth'});
+    };
+  </script>
+</body>
+</html>
