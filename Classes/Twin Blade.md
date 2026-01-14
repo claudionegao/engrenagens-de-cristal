@@ -211,3 +211,11 @@ Você ganha **3 turnos extras**. Durante esses turnos:
 - **+15 metros de movimento**
 - Pode usar **até 2 habilidades** sem custo de usos
 - Ao final, recupera todos HP e remove todas condições negativas
+
+## Portador Sem a Arma (Gema em Forma Humanoide)
+
+- O portador perde todos os bônus, habilidades e poderes concedidos pela arma/gema.
+- Só pode usar ataques desarmados ou armas secundárias (se possuir).
+- Não pode usar habilidades de classe que dependam da arma/gema.
+- CA, proficiências e atributos permanecem os mesmos, mas sem bônus mágicos da arma.
+- O portador pode agir normalmente, mas fica limitado a recursos básicos até a Gema retornar à forma de arma.

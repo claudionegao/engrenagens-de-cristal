@@ -204,3 +204,11 @@ Dano aumenta para **20d12 + 150**. O ataque atravessa o alvo e continua em **lin
 
 **[FINAL - V10]:**  
 Dano aumenta para **30d12 + 250**. Você pode fazer o ataque **3 vezes** em alvos diferentes (ou o mesmo). Cada ataque que matar o alvo cria uma **explosão de 9 metros** (8d10 de dano). Estruturas atingidas são **completamente destruídas**. O golpe abre uma **fenda dimensional** onde atingiu (permanente).
+
+## Portador Sem a Arma (Gema em Forma Humanoide)
+
+- O portador perde todos os bônus, habilidades e poderes concedidos pela arma/gema.
+- Só pode usar ataques desarmados ou armas secundárias (se possuir).
+- Não pode usar habilidades de classe que dependam da arma/gema.
+- CA, proficiências e atributos permanecem os mesmos, mas sem bônus mágicos da arma.
+- O portador pode agir normalmente, mas fica limitado a recursos básicos até a Gema retornar à forma de arma.

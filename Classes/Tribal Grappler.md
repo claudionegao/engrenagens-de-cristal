@@ -209,3 +209,13 @@ Tamanho aumenta para **Gigantesco**. PV temporários: **+150**. Bônus de dano: 
 
 **[FINAL - V10]:**  
 Tamanho aumenta para **Colossal** (6m+ de altura). PV temporários: **+200**. Bônus de dano: **+15**. Você ganha **resistência a todo dano**. Regeneração: **5d10 PV por turno**. Seus ataques causam **dano de área** (3m ao redor sofre metade). Você pode fazer **até 6 ataques** por turno. Inimigos a até **9m** devem fazer save de SAB (CD 18) no início do turno ou ficam **amedrontados**. Duração: **5 minutos**.
+
+---
+
+## Portador Sem a Arma (Gema em Forma Humanoide)
+
+- O portador perde todos os bônus, habilidades e poderes concedidos pela arma/gema.
+- Só pode usar ataques desarmados ou armas secundárias (se possuir).
+- Não pode usar habilidades de classe que dependam da arma/gema.
+- CA, proficiências e atributos permanecem os mesmos, mas sem bônus mágicos da arma.
+- O portador pode agir normalmente, mas fica limitado a recursos básicos até a Gema retornar à forma de arma.

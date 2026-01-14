@@ -232,3 +232,11 @@ Dano aumenta para **50d10**. Largura aumenta para **18 metros**. Alcance:  **ili
 - **Destrói permanentemente** qualquer estrutura não-mágica atingida
 
 Após usar, você não fica exausto e recupera **metade dos seus HP**.
+
+## Portador Sem a Arma (Gema em Forma Humanoide)
+
+- O portador perde todos os bônus, habilidades e poderes concedidos pela arma/gema.
+- Só pode usar ataques desarmados ou armas secundárias (se possuir).
+- Não pode usar habilidades de classe que dependam da arma/gema.
+- CA, proficiências e atributos permanecem os mesmos, mas sem bônus mágicos da arma.
+- O portador pode agir normalmente, mas fica limitado a recursos básicos até a Gema retornar à forma de arma.

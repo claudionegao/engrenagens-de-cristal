@@ -208,3 +208,11 @@ Você pode ressuscitar **até 3 alvos** simultaneamente. Eles retornam no **auge
 
 **[FINAL - V10]:**  
 Você pode ressuscitar **até 10 alvos** simultaneamente. Eles retornam com **bônus permanente**: +1 em um atributo à escolha e +10 PV máximo. Se morreram **heroicamente**, voltam com **1 nível adicional**. Não requer corpo (funciona com apenas o nome). Você pode usar essa habilidade para **ressuscitar a si mesmo** (se morrer, revive automaticamente após 1 hora com metade do PV).
+
+## Portador Sem a Arma (Gema em Forma Humanoide)
+
+- O portador perde todos os bônus, habilidades e poderes concedidos pela arma/gema.
+- Só pode usar ataques desarmados ou armas secundárias (se possuir).
+- Não pode usar habilidades de classe que dependam da arma/gema.
+- CA, proficiências e atributos permanecem os mesmos, mas sem bônus mágicos da arma.
+- O portador pode agir normalmente, mas fica limitado a recursos básicos até a Gema retornar à forma de arma.

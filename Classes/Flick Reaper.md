@@ -210,3 +210,11 @@ PV temporários: **+200**. Alcance dos ataques: **15 metros**. Você é **imune 
 
 **[FINAL - V10]:**  
 PV temporários: **+300**. Alcance dos ataques: **24 metros**. Você é **imune a todos os danos** e **todas as condições**. Todos os seus ataques matam **instantaneamente** criaturas com menos de **100 PV**. Você pode fazer **ataques ilimitados** por turno. Criaturas que morrem por suas mãos têm suas **almas destruídas** (não podem ser ressuscitadas por nenhum meio exceto Desejo). Duração: **10 minutos**. Quando a transformação termina, você cura **todo o seu PV**.
+
+## Portador Sem a Arma (Gema em Forma Humanoide)
+
+- O portador perde todos os bônus, habilidades e poderes concedidos pela arma/gema.
+- Só pode usar ataques desarmados ou armas secundárias (se possuir).
+- Não pode usar habilidades de classe que dependam da arma/gema.
+- CA, proficiências e atributos permanecem os mesmos, mas sem bônus mágicos da arma.
+- O portador pode agir normalmente, mas fica limitado a recursos básicos até a Gema retornar à forma de arma.

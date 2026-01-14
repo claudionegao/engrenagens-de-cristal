@@ -207,3 +207,13 @@ Distância aumenta para **75 metros**. Dano aumenta para **25d10**. O corte atra
 
 **[FINAL - V10]:**  
 Distância aumenta para **90 metros**. Dano aumenta para **35d10**. Você pode fazer **2 cortes dimensionais** em direções diferentes. Cada corte cria uma **fenda planar** que dura 1 minuto (causa 5d10 de dano a qualquer criatura que passe). O corte **ignora todas resistências** (trata como vulnerabilidade). Criaturas mortas pelo corte são **desintegradas** (ressurreição requer magia de 7º círculo+).
+
+---
+
+## Portador Sem a Arma (Gema em Forma Humanoide)
+
+- O portador perde todos os bônus, habilidades e poderes concedidos pela arma/gema.
+- Só pode usar ataques desarmados ou armas secundárias (se possuir).
+- Não pode usar habilidades de classe que dependam da arma/gema.
+- CA, proficiências e atributos permanecem os mesmos, mas sem bônus mágicos da arma.
+- O portador pode agir normalmente, mas fica limitado a recursos básicos até a Gema retornar à forma de arma.
