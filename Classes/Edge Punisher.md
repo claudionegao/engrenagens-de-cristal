@@ -3,6 +3,30 @@
 **Gema Original:** Ametista (Violet)
 **Descrição:** Gemas de Ametista são conhecidas por sua força, resistência e conexão com o poder bruto. São parceiras leais, focadas em proteger e esmagar obstáculos ao lado de seus portadores.
 
+## Habilidades Humanoides – Ametista
+
+- **[V1] Presença Imponente (Passiva, Nível 1):**
+  - Ametista aumenta de tamanho, tornando-se uma figura intimidadora.
+  - Concede vantagem em testes de Intimidação e Persuasão para si e aliados próximos. Pode usar Força ou Carisma para Intimidação.
+
+- **[V2] Parede de Cristal (Reação, Nível 2):**
+  - 1x por descanso curto, Ametista pode saltar à frente de um aliado para bloquear um ataque iminente.
+  - Concede +5 de CA contra o ataque. Se ainda assim o ataque acertar, o dano recebido é reduzido em 50% + (5% x modificador de Constituição da Gema).
+
+- **[V4] Chamado Cristalino (Ação Bônus, Nível 4):**
+  - O portador pode chamar Ametista de volta instantaneamente, de qualquer distância.
+  - Se inconsciente, Ametista retorna como arma.
+  - Não pode voltar à forma humanoide até o próximo descanso curto.
+
+- **[V7] Pele de Pedra (Passiva, Nível 7):**
+  - Ametista ganha imunidade a dano mágico e resistência a dano físico enquanto em forma humanoide.
+
+- **[V10] Armadura Viva (Ultimate, Nível 10):**
+  - Ametista se transforma em uma armadura viva, fundindo-se com um aliado.
+  - Os status (HP, CA, resistências) de ambos são somados e divididos igualmente.
+  - O usuário recebe todas as habilidades passivas e ativas de Ametista enquanto estiver vestindo a armadura.
+  - Duração: 1 minuto ou até ser desativado.
+
 **Tipo de Arma:** Espadão gigante de duas mãos
 
 ## Descrição

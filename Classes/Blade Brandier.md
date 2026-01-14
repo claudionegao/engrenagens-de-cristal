@@ -3,6 +3,31 @@
 **Gema Original:** Pedra da Lua (Moonstone)
 **Descrição:** Gemas de Pedra da Lua são místicas e versáteis, combinando poder arcano com destreza marcial. São parceiras que favorecem a criatividade e a adaptação em combate.
 
+## Habilidades Humanoides – Moonstone
+
+- **[V1] Sentido Místico (Passiva, Nível 1):**
+  - Moonstone percebe magias ativas, áreas mágicas e ilusões num raio de 18m.
+  - Vantagem em testes de Arcanismo e Percepção para detectar magia.
+
+- **[V2] Dissipar Sutileza (Ação, Nível 2):**
+  - 1x por descanso curto, pode dissipar uma magia de até 2º círculo ou cancelar um efeito mágico menor em alcance toque.
+  - CD de dissipação = 8 + modificador de Inteligência da Gema.
+
+- **[V4] Chamado Cristalino (Ação Bônus, Nível 4):**
+  - O portador pode chamar Moonstone de volta instantaneamente, de qualquer distância.
+  - Se inconsciente, Moonstone retorna como arma.
+  - Não pode voltar à forma humanoide até o próximo descanso curto.
+
+- **[V7] Refração Lunar (Reação, Nível 7):**
+  - 1x por rodada, pode conceder resistência a dano mágico para si ou um aliado até o início do próximo turno.
+  - Vantagem em testes de resistência contra magias enquanto em forma humanoide.
+
+- **[V10] Eclipse Arcano (Ultimate, Nível 10):**
+  - Moonstone se torna um avatar anti-magia por 1 minuto.
+  - Todos efeitos mágicos hostis em um raio de 9m são suprimidos.
+  - Pode usar “Dissipar Magia” como reação ilimitada durante a duração.
+  - O portador recebe imunidade a dano mágico enquanto Moonstone estiver ativa.
+  
 **Tipo de Arma:** Espada mágica elegante de uma mão
 
 ## Descrição
@@ -28,6 +53,9 @@ perfeitos entre guerreiro e mago.
 
 Foco em versatilidade mágica e defesa técnica. Blade Brandiers são 
 duelistas refinados que sacrificam força bruta por elegância e poder arcano.
+
+---
+
 
 ---
 

@@ -3,6 +3,31 @@
 **Gema Original:** Safira (Sapphire)
 **Descrição:** Gemas de Safira são graciosas, ágeis e possuem uma afinidade natural com movimentos acrobáticos e evasivos. São parceiras perfeitas para estilos de combate baseados em dança e esquiva.
 
+## Habilidades Humanoides – Safira
+
+- **[V1] Passos Fantasmagóricos (Passiva, Nível 1):**
+  - Safira pode se mover através de áreas difíceis sem penalidade.
+  - Vantagem em testes de Acrobacia e Performance.
+  - Pode usar Destreza para Performance em situações sociais.
+
+- **[V2] Olhar Hipnótico (Ação, Nível 2):**
+  - 1x por descanso curto, pode forçar uma criatura a fazer um teste de Sabedoria (CD = 8 + Proficiência + modificador de Carisma da Gema) ou ficar encantada por 1 minuto.
+  - Criaturas encantadas não podem atacar Safira ou seus aliados.
+
+- **[V4] Chamado Cristalino (Ação Bônus, Nível 4):**
+  - O portador pode chamar Safira de volta instantaneamente, de qualquer distância.
+  - Se inconsciente, Safira retorna como arma.
+  - Não pode voltar à forma humanoide até o próximo descanso curto.
+
+- **[V7] Valsa Evasiva (Reação, Nível 7):**
+  - 1x por rodada, Safira pode conceder vantagem em um teste de esquiva ou salvar de Destreza para si ou um aliado adjacente.
+  - Se o teste for bem-sucedido, pode mover-se até 3m sem provocar ataques de oportunidade.
+
+- **[V10] Dança do Fim (Ultimate, Nível 10):**
+  - Por 1 minuto, Safira se torna intangível e impossível de ser alvo de ataques físicos.
+  - Todos aliados em até 9m recebem vantagem em testes de Destreza e Performance.
+  - Inimigos que falharem em atacar Safira ficam desorientados (desvantagem em ataques até o próximo turno).
+
 **Tipo de Arma:** Lâminas duplas de dança
 
 ## Descrição
@@ -187,4 +212,4 @@ Bônus de movimento: **+30 metros**. Bônus de CA: **+10**. Você ganha **resist
 - **Adiciona +30 segundos** à duração
 - **Restaura 1 uso** de uma habilidade sua (escolha)
 
-Você pode **teleportar até 15 metros** como ação livre (até 5x por turno). Ao final da dança, você recupera **metade dos usos** de suas habilidades. Você tem **vantagem em todas as rolagens** por 10 minutos após o término. Duração inicial: **3 minutos**. 
+Você pode **teleportar até 15 metros** como ação livre (até 5x por turno). Ao final da dança, você recupera **metade dos usos** de suas habilidades. Você tem **vantagem em todas as rolagens** por 10 minutos após o término. Duração inicial: **3 minutos**.

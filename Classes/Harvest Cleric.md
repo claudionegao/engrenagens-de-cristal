@@ -3,6 +3,30 @@
 **Gema Original:** Pérola (Pearl)
 **Descrição:** Gemas de Pérola são curativas, empáticas e protetoras. Têm grande afinidade com energias restauradoras e são parceiras dedicadas ao suporte e à preservação da vida.
 
+## Habilidades Humanoides – Pearl
+
+- **[V1] Aura Calmante (Passiva, Nível 1):**
+  - Pearl emana uma aura de tranquilidade. Aliados em até 6m têm vantagem em testes de resistência contra medo e efeitos de charme.
+  - Facilita negociações e acalma NPCs hostis.
+
+- **[V2] Diagnóstico Perfeito (Ação, Nível 2):**
+  - Pearl pode identificar doenças, venenos ou maldições em uma criatura com um toque.
+  - 1x por descanso curto, pode neutralizar um veneno ou doença simples.
+
+- **[V4] Chamado Cristalino (Ação Bônus, Nível 4):**
+  - O portador pode chamar Pearl de volta instantaneamente, de qualquer distância.
+  - Se inconsciente, Pearl retorna como arma.
+  - Não pode voltar à forma humanoide até o próximo descanso curto.
+
+- **[V7] Escudo de Empatia (Reação, Nível 7):**
+  - 1x por rodada, Pearl pode absorver metade + (5% x modificador de Constituição da Gema) do dano recebido por um aliado adjacente.
+  - Pearl sente as emoções e dores do grupo, podendo alertar sobre ameaças ocultas.
+
+- **[V10] Fonte de Vida (Ultimate, Nível 10):**
+  - Pearl se torna uma fonte viva de energia restauradora por 1 minuto.
+  - Todos aliados em até 9m recuperam 2d8 + modificador de Sabedoria da Gema de PV no início de cada turno.
+  - Remove condições negativas (envenenado, amedrontado, paralisado) ao entrar na aura.
+  
 **Tipo de Arma:** Cajado restaurador
 
 ## Descrição
@@ -31,6 +55,9 @@ sacrificando poder ofensivo por capacidade de manter aliados vivos.
 ---
 
 ## 🎯 PROGRESSÃO DE HABILIDADES
+
+---
+
 
 ---
 

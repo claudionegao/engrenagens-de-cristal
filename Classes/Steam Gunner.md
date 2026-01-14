@@ -3,6 +3,31 @@
 **Gema Original:** Topázio Imperial (Topaz)
 **Descrição:** Gemas de Topázio Imperial são precisas, calculistas e dotadas de grande poder de fogo à distância. São parceiras ideais para quem prefere atacar de longe com eficiência e impacto.
 
+## Habilidades Humanoides – Topázio Imperial
+
+- **[V1] Olhar de Águia (Passiva, Nível 1):**
+  - Topázio concede vantagem em testes de Percepção para localizar inimigos, armadilhas e detalhes à distância.
+  - Pode usar Inteligência para testes de Percepção relacionados a análise de terreno.
+
+- **[V2] Análise Balística (Ação, Nível 2):**
+  - 1x por descanso curto, Topázio pode calcular pontos fracos de um alvo ou estrutura.
+  - O próximo ataque (corpo a corpo ou à distância) do portador ou aliado recebe +2 no ataque e ignora resistência do alvo, se houver.
+  - Duração: até o final do próximo turno.
+
+- **[V4] Chamado Cristalino (Ação Bônus, Nível 4):**
+  - O portador pode chamar Topázio de volta instantaneamente, de qualquer distância.
+  - Se inconsciente, Topázio retorna como arma.
+  - Não pode voltar à forma humanoide até o próximo descanso curto.
+
+- **[V7] Cálculo Instantâneo (Reação, Nível 7):**
+  - 1x por rodada, Topázio pode conceder vantagem em um teste de habilidade (exceto ataque) de um aliado, usando Inteligência.
+  - Se for um teste de dano (ex: ataque de área, magia), adiciona o modificador de Inteligência da Gema ao dano.
+
+- **[V10] Radar Mágico (Ultimate, Nível 10):**
+  - Topázio se transforma em um radar mágico por 1 minuto.
+  - Todos aliados em até 9m recebem vantagem em testes de Percepção, Investigação e resistência contra efeitos de área.
+  - O portador pode usar uma ação bônus para permitir que um aliado repita um teste de habilidade ou resistência durante a duração.
+
 **Tipo de Arma:** Canhão/Arma de fogo cristalina
 
 ## Descrição
@@ -206,4 +231,4 @@ Dano aumenta para **50d10**. Largura aumenta para **18 metros**. Alcance:  **ili
 - Deixa **vórtice de energia** que causa 10d10 de dano por turno em 30m de raio (dura 10 minutos)
 - **Destrói permanentemente** qualquer estrutura não-mágica atingida
 
-Após usar, você não fica exausto e recupera **metade dos seus HP**. 
+Após usar, você não fica exausto e recupera **metade dos seus HP**.

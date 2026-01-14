@@ -14,7 +14,7 @@
 - **[V2] Presença Ilusória (Ação, Nível 2):**
 	- Cria cópias ilusórias de si ou do portador para distração ou reconhecimento.
 	- Duração: até 10 minutos. Alcance: até 60m para reconhecimento.
-	- Criaturas podem fazer teste de INT para perceber a ilusão.
+	- Criaturas podem fazer teste de Inteligência (CD = 8 + Proficiência + modificador de Inteligência da Gema) para perceber a ilusão.
 
 - **[V4] Chamado Cristalino (Ação Bônus, Nível 4):**
 	- O portador pode chamar Peridot de volta instantaneamente, de qualquer distância.
