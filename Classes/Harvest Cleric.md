@@ -2,6 +2,7 @@
 
 **Gema Original:** Pérola (Pearl)
 **Descrição:** Gemas de Pérola são curativas, empáticas e protetoras. Têm grande afinidade com energias restauradoras e são parceiras dedicadas ao suporte e à preservação da vida.
+**Perícias sugeridas:** Medicina (Sabedoria), Intuição (Sabedoria), Religião (Inteligência), Persuasão (Carisma)
 
 ## Habilidades Humanoides – Pearl
 
@@ -36,8 +37,8 @@ e proteger o grupo. Preferem suporte a combate direto, mas podem se defender.
 
 ## Vantagens Enquanto Equipado
 
-- ✅ **+2 em testes de Medicina**
-- ✅ **+2 em testes de Intuição** (empatia com feridos)
+- ✅ **Proficiência em Medicina (Sabedoria) e Intuição (Sabedoria)**
+  - Sempre que fizer testes dessas perícias, adicione o bônus de proficiência dobrado.
 - ✅ **Vantagem em testes de resistência contra veneno/doença**
 - ✅ Pode usar como **foco arcano** para magias de cura
 

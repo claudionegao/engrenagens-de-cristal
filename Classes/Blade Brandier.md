@@ -2,6 +2,7 @@
 
 **Gema Original:** Pedra da Lua (Moonstone)
 **Descrição:** Gemas de Pedra da Lua são místicas e versáteis, combinando poder arcano com destreza marcial. São parceiras que favorecem a criatividade e a adaptação em combate.
+**Perícias sugeridas:** Arcanismo (Inteligência), Acrobacia (Destreza), História (Inteligência), Percepção (Sabedoria)
 
 ## Habilidades Humanoides – Moonstone
 
@@ -38,7 +39,8 @@ perfeitos entre guerreiro e mago.
 
 ## Vantagens Enquanto Equipado
 
-- ✅ **+2 em testes de Arcanismo**
+- ✅ **Proficiência em Arcanismo (Inteligência)**
+  - Sempre que fizer testes dessas perícias, adicione o bônus de proficiência dobrado (Especialista).
 - ✅ **+1 CA** (estilo de luta defensivo e técnico)
 - ✅ Pode usar como **foco arcano** para magias
 - ✅ **Vantagem em testes de resistência contra magias**

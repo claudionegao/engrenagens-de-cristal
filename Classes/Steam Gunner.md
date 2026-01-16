@@ -2,6 +2,7 @@
 
 **Gema Original:** Topázio Imperial (Topaz)
 **Descrição:** Gemas de Topázio Imperial são precisas, calculistas e dotadas de grande poder de fogo à distância. São parceiras ideais para quem prefere atacar de longe com eficiência e impacto.
+**Perícias sugeridas:** Percepção (Sabedoria), Investigação (Inteligência), Arcanismo (Inteligência), Ofícios (Inteligência)
 
 ## Habilidades Humanoides – Topázio Imperial
 
@@ -37,7 +38,8 @@ Poder de fogo devastador à distância, mas mobilidade limitada.
 
 ## Vantagens Enquanto Equipado
 
-- ✅ **+2 em testes de Percepção** (mira treinada)
+- ✅ **Proficiência em Percepção (Sabedoria) e Arcanismo (Inteligência)**
+  - Sempre que fizer testes dessas perícias, adicione o bônus de proficiência dobrado.
 - ✅ Ignora **meia-cobertura** ao atacar
 - ✅ **Alcance longo** (45/180 metros)
 - ✅ Proficiência em **Ferramentas de Artífice** (manutenção da arma)

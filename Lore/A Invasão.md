@@ -120,17 +120,17 @@ Assim nasceram **Os Oito Originais**:
 - Classe de suporte e cura
 - Buffs, regeneração e revivals
 
-#### 5. **BurningFist** & Ruby (Rubi) - **Tribal Grappler**
-- Gauntlets flamejantes
-- Classe de combate corpo a corpo puro
-- Agarrões, socos e chutes devastadores
+#### 5. **NightShade** & Obsidian (Obsidiana) - **Shadow Warlock**
+- Orbe de obsidiana
+- Classe de mago das sombras. Controle de energia densa e manipulação das trevas digitais.
+- Buffs mágicos, amplificação de feitiços, manipulação arcana e invocação de espectros digitais
 
-#### 6. **ShadowReaper** & Obsidian (Obsidiana) - **Flick Reaper**
+#### 6. **ShadowReaper** & Ruby (Rubí) - **Flick Reaper**
 - Foice de lâmina longa e curva
 - Classe focada em alcance médio e controle de área
 - Ataques giratórios e cortes amplos
 
-#### 7. **SteelRain** & Topaz (Topázio Imperial) - **Steam Gunner**
+#### 7. **SteelRain** & Topaz (Topázio) - **Steam Gunner**
 - Canhão/arma de fogo cristalina
 - Classe de ataque à distância com poder de fogo pesado
 - Recuo alto, dano massivo
@@ -250,7 +250,7 @@ Após o conflito, descobriu-se que as Gemas se dividiam em duas categorias:
 2. **Blade Brandier** - Magia e técnica
 3. **Edge Punisher** - Poder bruto
 4. **Harvest Cleric** - Suporte e cura
-5. **Tribal Grappler** - Combate corpo a corpo
+5. **Shadow Warlock** - Magia sombria e buffs mágicos
 6. **Flick Reaper** - Alcance e área
 7. **Steam Gunner** - Ataque à distância pesado
 8. **Macabre Dancer** - Acrobacias e evasão
@@ -404,7 +404,7 @@ das celebrações por exatos 3 dias.
 - **TwinStrike** (Twin Blade): 04/05/2036 - mesmo dia que IronWill
 - **CrystalDancer** (Blade Brandier): 05/05/2036 - deixou uma mensagem:  "Preciso encontrar os outros"
 - **HealingHand** (Harvest Cleric): 03/05/2036 - **única que retornou** 6 meses depois
-- **BurningFist** (Tribal Grappler): 04/05/2036
+- **NightShade** (Shadow Warlock): 04/05/2036
 - **ShadowReaper** (Flick Reaper): 03/05/2036 - primeiro a sumir
 - **SteelRain** (Steam Gunner): 04/05/2036
 - **VoidDancer** (Macabre Dancer): 05/05/2036 - último a desaparecer

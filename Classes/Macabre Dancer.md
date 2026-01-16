@@ -2,6 +2,7 @@
 
 **Gema Original:** Safira (Sapphire)
 **Descrição:** Gemas de Safira são graciosas, ágeis e possuem uma afinidade natural com movimentos acrobáticos e evasivos. São parceiras perfeitas para estilos de combate baseados em dança e esquiva.
+**Perícias sugeridas:** Acrobacia (Destreza), Performance (Carisma), Furtividade (Destreza), Persuasão (Carisma)
 
 ## Habilidades Humanoides – Safira
 
@@ -37,8 +38,8 @@ acrobáticos e esquivas impossíveis, combinando arte e letalidade.
 
 ## Vantagens Enquanto Equipado
 
-- ✅ **+2 em testes de Performance**
-- ✅ **+2 em testes de Acrobacia**
+- ✅ **Proficiência em Performance (Carisma) e Acrobacia (Destreza)**
+  - Sempre que fizer testes dessas perícias, adicione o bônus de proficiência dobrado.
 - ✅ **Vantagem em saves de Destreza**
 - ✅ Movimento não provoca **ataques de oportunidade** (dança evasiva)
 

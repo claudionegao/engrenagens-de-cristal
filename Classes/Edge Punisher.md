@@ -2,6 +2,7 @@
 
 **Gema Original:** Ametista (Violet)
 **Descrição:** Gemas de Ametista são conhecidas por sua força, resistência e conexão com o poder bruto. São parceiras leais, focadas em proteger e esmagar obstáculos ao lado de seus portadores.
+**Perícias sugeridas:** Atletismo (Força), Intimidação (Carisma), Sobrevivência (Sabedoria), Percepção (Sabedoria)
 
 ## Habilidades Humanoides – Ametista
 
@@ -36,7 +37,8 @@ devastador, quebrando defesas e esmagando inimigos. Lentos mas imparáveis.
 
 ## Vantagens Enquanto Equipado
 
-- ✅ **+2 em testes de Força (Atletismo)** para empurrar/derrubar
+- ✅ **Proficiência em Atletismo (Força) e Intimidação (Carisma ou Força)**
+  - Sempre que fizer testes dessas perícias, adicione o bônus de proficiência dobrado.
 - ✅ **+2 de dano** em ataques corpo a corpo
 - ✅ **Vantagem para quebrar objetos**
 - ✅ Causa **medo** (Intimidação) em criaturas Pequenas

@@ -1,31 +1,32 @@
 # Flick Reaper
 
-**Gema Original:** Obsidiana (Obsidian)
-**Descrição:** Gemas de Obsidiana são sombrias, misteriosas e especialistas em ataques de alcance e controle de área. São parceiras que favorecem táticas de emboscada e domínio do campo de batalha.
+**Gema Original:** Ruby (Rubí)
+**Descrição:** Gemas de Ruby possuem um vermelho escuro, cor de sangue, e são especialistas em ataques de alcance e controle de área. São parceiras que favorecem táticas de emboscada e domínio do campo de batalha.
+**Perícias sugeridas:** Furtividade (Destreza), Intimidação (Carisma), Percepção (Sabedoria), Investigação (Inteligência)
 
-## Habilidades Humanoides – Obsidiana
+## Habilidades Humanoides – Ruby
 
 - **[V1] Sombra Silenciosa (Passiva, Nível 1):**
-  - Obsidiana pode se mover sem ser percebida em ambientes escuros.
+  - Ruby pode se mover sem ser percebida em ambientes escuros.
   - Vantagem em testes de Furtividade e Percepção em sombras.
   - Pode usar Destreza para Furtividade, mesmo usando armaduras leves.
 
 - **[V2] Olhar da Morte (Ação, Nível 2):**
   - 1x por descanso curto, pode forçar uma criatura a fazer um teste de Sabedoria (CD = 8 + Proficiência + modificador de Carisma da Gema) ou ficar amedrontada por 1 minuto.
-  - Em combate, criaturas amedrontadas por Obsidiana sofrem desvantagem em ataques contra ela.
+  - Em combate, criaturas amedrontadas por Ruby sofrem desvantagem em ataques contra ela.
 
 - **[V4] Chamado Cristalino (Ação Bônus, Nível 4):**
-  - O portador pode chamar Obsidiana de volta instantaneamente, de qualquer distância.
-  - Se inconsciente, Obsidiana retorna como arma.
+  - O portador pode chamar Ruby de volta instantaneamente, de qualquer distância.
+  - Se inconsciente, Ruby retorna como arma.
   - Não pode voltar à forma humanoide até o próximo descanso curto.
 
 - **[V7] Névoa Mortal (Ação, Nível 7):**
-  - 1x por descanso longo, Obsidiana pode criar uma névoa escura de 6m de raio por 1 minuto.
+  - 1x por descanso longo, Ruby pode criar uma névoa escura de 6m de raio por 1 minuto.
   - Criaturas hostis na névoa têm desvantagem em ataques e testes de Percepção.
-  - Obsidiana e aliados têm vantagem em Furtividade e podem atravessar a névoa sem penalidade.
+  - Ruby e aliados têm vantagem em Furtividade e podem atravessar a névoa sem penalidade.
 
 - **[V10] Avatar do Medo (Ultimate, Nível 10):**
-  - Por 1 minuto, Obsidiana se torna uma presença aterrorizante.
+  - Por 1 minuto, Ruby se torna uma presença aterrorizante.
   - Todos inimigos em até 9m devem fazer teste de Sabedoria (CD = 8 + Proficiência + modificador de Carisma da Gema) a cada turno ou ficam amedrontados.
   - Inimigos amedrontados sofrem 2d6 de dano psíquico por turno.
 
@@ -39,7 +40,8 @@ sangramento devastador.
 
 ## Vantagens Enquanto Equipado
 
-- ✅ **+2 em testes de Intimidação** (presença ameaçadora)
+- ✅ **Proficiência em Intimidação (Carisma) e Percepção (Sabedoria)**
+  - Sempre que fizer testes dessas perícias, adicione o bônus de proficiência dobrado.
 - ✅ **Vantagem em ataques contra alvos sangrando**
 - ✅ **+1,5 metros de alcance** em ataques corpo a corpo
 - ✅ Críticos causam **sangramento** automaticamente (1d6/turno por 3 turnos)
@@ -66,7 +68,7 @@ Flick Reapers sacrificam defesa por poder ofensivo de múltiplos alvos.
 **Descrição:** Seus ataques causam ferimentos profundos que sangram. 
 
 **[BASE - V1]:**  
-Quando acerta um ataque corpo a corpo, o alvo começa a **sangrar**: sofre **1d6 de dano** no início de cada turno por **3 turnos**.
+Quando acerta um ataque critico, o alvo começa a **sangrar**: sofre **1d6 de dano** no início de cada turno por **3 turnos**.
 
 **[Evolução I - V2]:**  
 Sangramento aumenta para **2d6 de dano**. Duração: **4 turnos**. 
