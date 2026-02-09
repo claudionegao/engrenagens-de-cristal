@@ -234,7 +234,7 @@ A-world, convivendo pacificamente com os jogadores.
 **Gemas Remanescentes:**  
 Após o conflito, descobriu-se que as Gemas se dividiam em duas categorias:  
 
-- **Gemas Transformáveis (3-10% do total)**:   
+- **Gemas Transformáveis (3% do total)**:   
   Aquelas que possuem a rara habilidade de transformação completa descoberta 
   durante a guerra.   Podem se tornar armas conscientes seguindo a **Lei da 
   Forma Única** - cada Gema assume uma das Oito Classes Fundamentais.  

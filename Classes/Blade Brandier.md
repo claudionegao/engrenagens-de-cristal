@@ -37,6 +37,46 @@ Espadachins mágicos que combinam técnica de lâmina com poder arcano.
 Movimentos fluidos e elegantes ocultam poder destrutivo. Híbridos 
 perfeitos entre guerreiro e mago.
 
+## Conjuracao (Magias de Circulo)
+
+**Atributo de conjuracao:** Inteligencia
+
+**CD para magias:** 8 + bonus de proficiencia + modificador de Inteligencia
+
+**Ataque de magia:** bonus de proficiencia + modificador de Inteligencia
+
+**Progressao:** Conjurador parcial (meia progressao de magias de circulo)
+
+| Nivel | 1º | 2º | 3º | 4º | 5º |
+|------|----|----|----|----|----|
+| 1 | 2 | - | - | - | - |
+| 2 | 2 | - | - | - | - |
+| 3 | 3 | - | - | - | - |
+| 4 | 3 | - | - | - | - |
+| 5 | 4 | 2 | - | - | - |
+| 6 | 4 | 2 | - | - | - |
+| 7 | 4 | 3 | - | - | - |
+| 8 | 4 | 3 | - | - | - |
+| 9 | 4 | 3 | 2 | - | - |
+| 10 | 4 | 3 | 2 | - | - |
+| 11 | 4 | 3 | 3 | - | - |
+| 12 | 4 | 3 | 3 | - | - |
+| 13 | 4 | 3 | 3 | 1 | - |
+| 14 | 4 | 3 | 3 | 1 | - |
+| 15 | 4 | 3 | 3 | 2 | - |
+| 16 | 4 | 3 | 3 | 2 | - |
+| 17 | 4 | 3 | 3 | 3 | 1 |
+| 18 | 4 | 3 | 3 | 3 | 1 |
+| 19 | 4 | 3 | 3 | 3 | 2 |
+| 20 | 4 | 3 | 3 | 3 | 2 |
+
+## Magias Permitidas
+
+- **Lista base:** Mago (D&D 5e)
+- **Escolas permitidas:** Abjuracao, Evocacao, Transmutacao
+- **Restricoes de tema:** foco em auto-buff, defesa e tecnicas ligadas a arma
+- **Proibidas:** Conjuracao (invocacao), controle massivo, efeitos de area que nao envolvam a lamina
+
 ## Vantagens Enquanto Equipado
 
 - ✅ **Proficiência em Arcanismo (Inteligência)**

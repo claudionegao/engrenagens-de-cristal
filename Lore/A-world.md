@@ -145,8 +145,6 @@ dois meses antes da expansão "Profundezas Cristalinas".
 Dos 3.247 jogadores online durante a invasão: 
 - **3.247 (100%)** usavam o Nexus VR-4 Neural
 
-**Por quê? **
-
 A expansão "Profundezas Cristalinas" foi lançada **exclusivamente para 
 beta testers VR-4** como teste final da tecnologia neural antes do 
 lançamento comercial.
@@ -175,7 +173,7 @@ Tentativas de remover fisicamente os headsets resultavam em:
 - Convulsões
 - Perda de consciência
 - Risco de dano cerebral permanente
-- Em 7 casos:  morte
+- Em 7 casos: morte
 
 ## A Expansão Fatal
 
@@ -253,7 +251,7 @@ Apesar de tudo:
 
 > "As Gemas são reais.   O Sistema de Vínculo é real.  Fechar A-world 
 > não fará essas entidades desaparecerem - elas existem no código.  
-> A pergunta não é 'devemos fechar? '  A pergunta é:  'o que fazemos 
+> A pergunta não é 'devemos fechar?' A pergunta é: 'o que fazemos 
 > com consciências digitais que já existem?'  
 > Fechá-las seria...  assassinato?"
 
@@ -281,9 +279,9 @@ Apesar de tudo:
 - Requisitos obrigatórios: 
   - Sistema de kill-switch físico independente
   - Monitoramento de sinais vitais em tempo real
-  - Idade mínima:  21 anos
+  - Idade mínima: 21 anos
   - Proibido para pessoas com histórico de epilepsia ou condições neurológicas
-- Custo do hardware subiu para US$ 5. 999 devido às regulamentações
+- Custo do hardware subiu para US$ 5.999 devido às regulamentações
 
 **Mudanças na Desenvolvedora:**
 - CEO original forçado a renunciar

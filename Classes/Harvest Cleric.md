@@ -35,6 +35,46 @@
 Curadores de batalha que usam cajados cristalinos para restaurar aliados 
 e proteger o grupo. Preferem suporte a combate direto, mas podem se defender.
 
+## Conjuracao (Magias de Circulo)
+
+**Atributo de conjuracao:** Sabedoria
+
+**CD para magias:** 8 + bonus de proficiencia + modificador de Sabedoria
+
+**Ataque de magia:** bonus de proficiencia + modificador de Sabedoria
+
+**Progressao:** Conjurador pleno
+
+| Nivel | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º |
+|------|----|----|----|----|----|----|----|----|----|
+| 1 | 2 | - | - | - | - | - | - | - | - |
+| 2 | 3 | - | - | - | - | - | - | - | - |
+| 3 | 4 | 2 | - | - | - | - | - | - | - |
+| 4 | 4 | 3 | - | - | - | - | - | - | - |
+| 5 | 4 | 3 | 2 | - | - | - | - | - | - |
+| 6 | 4 | 3 | 3 | - | - | - | - | - | - |
+| 7 | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 8 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
+| 10 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
+| 11 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+## Magias Permitidas
+
+- **Lista base:** Clerigo (D&D 5e)
+- **Escolas permitidas:** Abjuracao, Divinacao, Evocacao (cura/energia)
+- **Restricoes de tema:** cura, protecao, restauracao, luz e apoio
+- **Proibidas:** Necromancia ofensiva, Conjuracao (invocacao)
+
 ## Vantagens Enquanto Equipado
 
 - ✅ **Proficiência em Medicina (Sabedoria) e Intuição (Sabedoria)**

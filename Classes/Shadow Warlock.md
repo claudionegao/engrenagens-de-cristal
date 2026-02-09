@@ -34,6 +34,47 @@
 
 Shadow Warlocks são magos sombrios que canalizam energia arcana através de uma orbe negra, ampliando feitiços e protegendo-se com trevas densas. Especialistas em buffs mágicos, resistência arcana e manipulação de energia.
 
+## Conjuracao (Magias de Circulo)
+
+**Atributo de conjuracao:** Inteligencia
+
+**CD para magias:** 8 + bonus de proficiencia + modificador de Inteligencia
+
+**Ataque de magia:** bonus de proficiencia + modificador de Inteligencia
+
+**Progressao:** Conjurador pleno
+
+| Nivel | 1º | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º |
+|------|----|----|----|----|----|----|----|----|----|
+| 1 | 2 | - | - | - | - | - | - | - | - |
+| 2 | 3 | - | - | - | - | - | - | - | - |
+| 3 | 4 | 2 | - | - | - | - | - | - | - |
+| 4 | 4 | 3 | - | - | - | - | - | - | - |
+| 5 | 4 | 3 | 2 | - | - | - | - | - | - |
+| 6 | 4 | 3 | 3 | - | - | - | - | - | - |
+| 7 | 4 | 3 | 3 | 1 | - | - | - | - | - |
+| 8 | 4 | 3 | 3 | 2 | - | - | - | - | - |
+| 9 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
+| 10 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
+| 11 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 12 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
+| 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
+| 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | - |
+| 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+## Magias Permitidas
+
+- **Lista base:** Warlock + selecao de Mago (D&D 5e)
+- **Escolas permitidas:** Necromancia, Ilusao, Encantamento, Abjuracao
+- **Evocacao:** apenas se o dano for sombrio/energia arcana
+- **Restricoes de tema:** debuffs, controle, amplificacao arcana, sombras digitais
+- **Proibidas:** Conjuracao (invocacao), curas diretas
+
 ## Vantagens Enquanto Equipado
 
 - ✅ **Proficiência em Arcanismo (Inteligência) e Intimidação (Carisma)**
